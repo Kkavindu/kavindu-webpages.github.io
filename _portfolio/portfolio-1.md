@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Methods and apparatus for a mechanical testing system to characterize the heterogeneous deformation at microscale"
+excerpt: "Patent pending"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+A 3-axis motorized stage integrated with precision stepper motors to support a 1000 lb micro-tensile tester positioned above an inverted optical microscope. Developed automation software using C++ (Arduino) and Python for feature tracking, autofocus, panoramic imaging, and post-processing (focus stacking and stabilization). The system captures high-resolution microscopic deformation (5X, 10X, 20X magnification) of metal coupon specimens in under 8.5 minutes

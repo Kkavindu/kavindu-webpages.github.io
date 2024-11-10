@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number 1"
+title: "Hierarchical Anisotropic Material Response of Directed Energy Deposited (DED) Ti-6Al-4V alloy"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: 'A comprehensive study is undertaken to investigate the evolution of microscopic deformation under in-situ uniaxial tensile testing of the Directed Energy Deposited (DED) Ti-6Al-4V alloy. The study uncovered a synergistic influence of the (α+β) lamellar microstructural features at different length scales, leading to distinct deformation mechanisms and barrier effects. At the smallest length scale, the deformation mechanisms are lattice slipping and phase boundary sliding (PBS), with a characteristic length scale comparable to the dimensions of α platelets and colonies. The slipping and PBS encountered complex barrier effects at β interlayers. At the intermediate length scale, a mechanism of strain localization manifests as shear bands along a 45o orientation to the uniaxial loading direction. The strain localization involves the activation of multiple slipping events and exhibits a propensity to choose large unobstructed phase-boundary pathways for its realization. At the highest length scale, grain boundaries introduce another barrier effect to both slipping and strain localization through intergranular deformation compatibility. The synergistic interplay between these three mechanisms constitutes a hierarchical response, enabling the material to effectively accommodate large plastic deformation. Moreover, the synergistic interplay influences the anisotropy of the material.'
+date: 2024-09-01
+venue: 'Acta Materialia'
+slidesurl: # 'http://academicpages.github.io/files/slides1.pdf'
+paperurl: 'https://doi.org/10.1016/j.actamat.2024.120080'
+citation: 'K. Wijesinghe, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.

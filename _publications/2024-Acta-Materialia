@@ -8,7 +8,7 @@ date: 2024-09-01
 venue: 'Acta Materialia'
 slidesurl: # 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://doi.org/10.1016/j.actamat.2024.120080'
-citation: 'K. Wijesinghe, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Wijesinghe, K., Herath, C., Michopoulos, J.G., Arnold, S.M. and Achuthan, A., 2024. Hierarchical Anisotropic Material Response of Directed Energy Deposited (DED) Ti-6Al-4V alloy. Acta Materialia, p.120080.'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.

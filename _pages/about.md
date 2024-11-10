@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 ![Illustration of my vision](/images/About.png){: .align-right width="300px"}
+
 I am a Ph.D. candidate and research assistant at Clarkson University, specializing in materials science, mechanical engineering, and computer vision, with a focus on enhancing the mechanical properties of additively manufactured alloys. My research explores the Process-Structure-Property relationship in titanium alloys and other advanced materials for optimized applications in aerospace and high-performance manufacturing. By uncovering the underlying deformation mechanisms, I aim to leverage this understanding to inform material design, manipulating microstructures to achieve superior performance under diverse testing conditions.
 
 Research Focus
@@ -15,7 +16,7 @@ My research focuses on the following areas:
 
 1. Microstructural and Mechanical Characterization: Investigating hierarchical deformation mechanisms in directed energy deposited (DED) Ti-6Al-4V alloys. I utilize advanced characterization tools such as SEM, EBSD, XRD, and digital image correlation (DIC) to gain insights into microstructural evolution and mechanical response.
 2. Alloy Design through Microstructural Manipulation: Optimizing the tensile behavior of Ti-6Al-4V by fine-tuning boron additions, identifying ideal trace concentrations that enhance isotropy and strength. This approach enables tailored material properties by precisely controlling microstructure.
-3. AI-Driven Generative Modeling for Materials Science: Developing generative AI models to predict material deformation, facilitating virtual testing and accelerating the iterative design of advanced materials by simulating behavior under various conditions.
+3. AI-Driven Generative Modeling for Materials Science: Developing generative AI models to predict material deformation, facilitating virtual testing, and accelerating the iterative design of advanced materials by simulating behavior under various conditions.
 4. Automated In-situ Testing Systems: Designing a patent-pending, fully automated micro-tensile testing system equipped for real-time, high-resolution strain measurement and microstructural analysis. This system leverages deep learning for advanced feature segmentation and tracking and enables rapid, data-driven insights into local strain behavior and deformation mechanisms.
 
 Technical Expertise

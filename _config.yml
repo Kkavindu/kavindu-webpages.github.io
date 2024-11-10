@@ -23,8 +23,8 @@ author:
   # Biographic information
   avatar           : "IMG_7283.jpg"
   name             : "Kavindu Wijesinghe"
-  pronouns         : "he/him"  
-  bio              : "Graduate Research Assistant"
+  pronouns         : # "he/him"  
+  bio              : "Materials & Mechanical Engineer | Researcher | AI Innovator"
   location         : "Potsdam, NY, USA"
   employer         : "Clarkson University"
   uri              : # URL

@@ -6,7 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-![Illustration](/images/About.png)
 
 I am a Ph.D. candidate and research assistant at Clarkson University, specializing in materials science, mechanical engineering, and computer vision, with a focus on enhancing the mechanical properties of additively manufactured alloys. My research explores the Process-Structure-Property relationship in titanium alloys and other advanced materials for optimized applications in aerospace and high-performance manufacturing. By uncovering the underlying deformation mechanisms, I aim to leverage this understanding to inform material design, manipulating microstructures to achieve superior performance under diverse testing conditions.
 

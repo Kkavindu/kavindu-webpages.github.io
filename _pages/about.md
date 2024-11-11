@@ -10,7 +10,7 @@ redirect_from:
 
 ## About
 
-![DALL-E](images/About.png){: align="right" width="280px"}
+![DALL-E](images/DALLE2.png){: align="right" width="280px"}
 👨🏻‍💻 I am a final-year Ph.D. candidate and research assistant at Clarkson University, specializing in materials science, mechanical engineering, and computer vision, with a focus on accelerating material design through AI and automation.
 
 🔬 My research aims to transform materials science by streamlining the Process-Structure-Property relationship in titanium alloys and other advanced materials for aerospace and high-performance manufacturing applications. I bring hands-on experience in experimental characterization, understanding how time-consuming, costly, and variable these processes can be. With this background, I am driven to develop AI-driven methods and automated systems that enhance efficiency, consistency, and insight in material design, paving the way for precision-tailored properties under diverse testing conditions.

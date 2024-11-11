@@ -53,7 +53,6 @@ With proficiency in Python and MATLAB, I specialize in deep learning application
 
 ## Professional Experience
 
-
 ### Clarkson University, Potsdam, NY
 Research Assistant | January 2020 – April 2025
 

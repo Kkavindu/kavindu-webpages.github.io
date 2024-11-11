@@ -5,7 +5,9 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+
 ---
+
 
 ![DALL-E](images/About.png){: align="right" width="280px"}
 👨🏻‍💻 I am a final year Ph.D. candidate and research assistant at Clarkson University, specializing in materials science, mechanical engineering, and computer vision, with a focus on enhancing the mechanical properties of additively manufactured alloys.

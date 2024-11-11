@@ -8,7 +8,7 @@ redirect_from:
 
 ---
 
-## Research Focus
+## About
 
 ![DALL-E](images/About.png){: align="right" width="280px"}
 👨🏻‍💻 I am a final-year Ph.D. candidate and research assistant at Clarkson University, specializing in materials science, mechanical engineering, and computer vision, with a focus on accelerating material design through AI and automation.
@@ -54,9 +54,7 @@ With proficiency in Python and MATLAB, I specialize in deep learning application
 
 
 ### Clarkson University, Potsdam, NY
-Research Assistant
-
-January 2020 – April 2025
+Research Assistant | January 2020 – April 2025
 
  - Hierarchical Deformation in Anisotropic Alloys: Led in-depth characterization of Directed Energy Deposited (DED) Ti-6Al-4V, employing SEM, EBSD, Optical Microscopy, and XRD. Through in-situ SEM micro-tensile testing, identified and described deformation mechanisms, introducing a novel intergranular compatibility theory to explain strength anisotropy.
 
@@ -71,22 +69,16 @@ January 2020 – April 2025
  - Generative AI for Virtual Tensile Testing: Currently developing an AI framework with latent diffusion modeling to predict deformation up to 20% strain in solution-annealed SS 316L, enabling virtual material testing.
 
 ### AHEAD UAV Laboratory (Startup), Colombo, Sri Lanka
-Chief Mechanical Engineer
-
-January 2019 – December 2019
+Chief Mechanical Engineer | January 2019 – December 2019
 
  - Designed and prototyped a quadcopter (Mora-X) for aerial mapping, optimizing aerodynamics and weight distribution through topology optimization using SolidWorks, Ansys, and Fusion360.
 
 ### Camso Loadstar Pvt. Ltd. – Wheel Manufacturing Division, Ekala, Sri Lanka
-Mechanical Engineering Intern
-
-June 2017 – December 2016
+Mechanical Engineering Intern | June 2017 – December 2016
 
  - Developed an automated tire runout checking device with pneumatic actuation to enhance quality control within the tire assembly process, integrating automation within the production line.
 
 ### 3DMart 3D Printing Service & Freelance Engineering, Colombo, Sri Lanka
-Self-Employed & Freelancer
+Self-Employed & Freelancer | April 2018 – December 2019
 
-April 2018 – December 2019
-
- - Provided custom 3D printing and engineering services, including 3D modeling, FEA, and CFD simulations for clients. Utilized a Creality Ender 3 printer for rapid prototyping of customer-requested designs.
+ - Provided custom 3D printing and engineering services, including 3D modeling, Finite Element Analysis (FEA), and Computational Fluid Dynamics (CFD) simulations for clients. Utilized a Creality Ender 3 printer for rapid prototyping of customer-requested designs.

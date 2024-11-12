@@ -1,8 +1,7 @@
 ---
 title: "Research Assistant"
 collection: teaching
-type: "@"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/Research-Assistant-MSE
 venue: "Clarkson University, Materials Science & Engineering"
 date: 2022-2025
 location: "Potsdam, NY, USA"

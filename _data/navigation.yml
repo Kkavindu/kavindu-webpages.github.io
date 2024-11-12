@@ -17,8 +17,8 @@ main:
   - title: "Patents"
     url: /portfolio/
         
-  #- title: "Blog Posts"
-   # url: /year-archive/
+  - title: "Professional Experience"
+    url: /year-archive/
     
   - title: "CV"
     url: /files/Kavindu_Wijesinghe_Resume.pdf

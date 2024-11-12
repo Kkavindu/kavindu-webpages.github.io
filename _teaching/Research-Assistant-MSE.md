@@ -1,6 +1,7 @@
 ---
 title: "Research Assistant"
 collection: teaching
+type: "Research Assistant @ MSE"
 permalink: /teaching/Research-Assistant-MSE
 venue: "Clarkson University, Materials Science & Engineering"
 date: 2022-2025

@@ -39,18 +39,17 @@ I develop generative AI models, including Latent Diffusion Models (LDM), that pr
 
 With a strong foundation in experimental and data-driven techniques, I bring expertise across the following areas:
 
- - Material Characterization
- 
- -- I am skilled in advanced characterization techniques, including Scanning Electron Microscopy (SEM), Optical Microscopy (OM), In-situ/Ex-situ SEM/OM, X-ray Diffraction (XRD), Electron Backscatter Diffraction (EBSD), Energy Dispersive Spectroscopy (EDS), Atomic Force Microscopy (AFM), Nanoindentation, and Uniaxial Tensile Testing. My experience extends to metallic sample preparation (mechanical & electro-chemical polishing/etching), Digital Image Correlation (DIC), surface roughness measurement, heat treatment, and residual stress measurement using strain gages.
+### Material Characterization
+ - I am skilled in advanced characterization techniques, including Scanning Electron Microscopy (SEM), Optical Microscopy (OM), In-situ/Ex-situ SEM/OM, X-ray Diffraction (XRD), Electron Backscatter Diffraction (EBSD), Energy Dispersive Spectroscopy (EDS), Atomic Force Microscopy (AFM), Nanoindentation, and Uniaxial Tensile Testing. My experience extends to metallic sample preparation (mechanical & electro-chemical polishing/etching), Digital Image Correlation (DIC), surface roughness measurement, heat treatment, and residual stress measurement using strain gages.
 
- - Manufacturing Techniques:
- -- I have hands-on experience with advanced and traditional manufacturing methods, including Selective Laser Melting (SLM) of stainless steel 316L, Fused Deposition Modeling (FDM) of polymers (PLA), and manual machining (lathe, milling, and drilling). Additionally, I am skilled in CNC programming, arc welding, laser cutting, and soldering, providing a comprehensive manufacturing background.
+### Manufacturing Techniques
+ - I have hands-on experience with advanced and traditional manufacturing methods, including Selective Laser Melting (SLM) of stainless steel 316L, Fused Deposition Modeling (FDM) of polymers (PLA), and manual machining (lathe, milling, and drilling). Additionally, I am skilled in CNC programming, arc welding, laser cutting, and soldering, providing a comprehensive manufacturing background.
 
- - Automation & Robotics:
- -- I design and implement custom automation solutions in materials testing and industrial settings, with expertise in microcontroller programming (Arduino, ESP32, Raspberry Pi) and Siemens PLC systems. My automation solutions support high-precision and high-throughput testing, integral to accelerating the iterative design process.
+### Automation & Robotics
+ - I design and implement custom automation solutions in materials testing and industrial settings, with expertise in microcontroller programming (Arduino, ESP32, Raspberry Pi) and Siemens PLC systems. My automation solutions support high-precision and high-throughput testing, integral to accelerating the iterative design process.
 
- - Computer Vision and Artificial Intelligence:
- -- With proficiency in Python and MATLAB, I specialize in deep learning applications (predictive and generative AI), object detection, segmentation, feature tracking, and algorithm development. My work includes video stabilization, focus stacking, image enhancement, optical flow mapping, and feature extraction, contributing to efficient and accurate data interpretation in experimental material studies.
+### Computer Vision and Artificial Intelligence
+ - With proficiency in Python and MATLAB, I specialize in deep learning applications (predictive and generative AI), object detection, segmentation, feature tracking, and algorithm development. My work includes video stabilization, focus stacking, image enhancement, optical flow mapping, and feature extraction, contributing to efficient and accurate data interpretation in experimental material studies.
 
 ## Professional Experience
 

@@ -2,7 +2,7 @@
 title: "Research Assistant"
 collection: teaching
 type: "Research Assistant @ MAE"
-permalink: /teaching/Research-Assistant-MAE
+permalink: /teaching/Job-2
 venue: "Clarkson University, Mechanical & Aerospace Engineering"
 date: 2020-2022
 location: "Potsdam, NY, USA"

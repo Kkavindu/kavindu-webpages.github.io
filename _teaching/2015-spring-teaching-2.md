@@ -1,20 +1,21 @@
 ---
-title: "Teaching experience 2"
+title: "Research Assistant"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "@"
+permalink: /teaching/2015-spring-teaching-2
+venue: "Clarkson University, Mechanical & Aerospace Engineering"
+date: 2020/01-2022/01
+location: "Potsdam, NY, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Carried out two projects as a Research Assistant and a Master of Science student at Mechanical & Aerospace Engineering Department of Clarkson University.
 
-Heading 1
+Project 1
 ======
 
-Heading 2
+ - Automated In-Situ Testing System: Designed a patent-pending, fully automated, micro-tensile testing setup with a 3-axis motorized stage, precision stepper motors, and integrated software for feature tracking, autofocus, and image processing. This system achieves high-resolution imaging at multiple magnifications, allowing real-time analysis in less than 8.5 minutes.
+
+Project 2
 ======
 
-Heading 3
-======
+ - Deep Learning for Microscopic Strain Measurement: Developed a deep learning-based framework to segment and track microstructural features in in-situ micro-tensile videos, enhancing accuracy in local strain measurement.

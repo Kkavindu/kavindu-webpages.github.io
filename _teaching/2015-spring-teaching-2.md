@@ -4,7 +4,7 @@ collection: teaching
 type: "@"
 permalink: /teaching/2015-spring-teaching-2
 venue: "Clarkson University, Mechanical & Aerospace Engineering"
-date: 2020/01-2022/01
+date: 2020-2022
 location: "Potsdam, NY, USA"
 ---
 

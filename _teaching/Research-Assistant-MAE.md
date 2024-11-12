@@ -1,14 +1,13 @@
 ---
 title: "Research Assistant"
 collection: teaching
-type: "@"
-permalink: /teaching/2015-spring-teaching-2
+permalink: /teaching/Research-Assistant-MAE
 venue: "Clarkson University, Mechanical & Aerospace Engineering"
 date: 2020-2022
 location: "Potsdam, NY, USA"
 ---
 
-Carried out two projects as a Research Assistant and a Master of Science student at Mechanical & Aerospace Engineering Department of Clarkson University.
+Carried out two projects as a Research Assistant and a Master of Science student at the Mechanical & Aerospace Engineering Department of Clarkson University.
 
 Project 1
 ======

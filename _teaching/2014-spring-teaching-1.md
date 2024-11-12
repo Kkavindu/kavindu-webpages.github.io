@@ -3,20 +3,30 @@ title: "Research Assistant"
 collection: teaching
 type: "@"
 permalink: /teaching/2014-spring-teaching-1
-venue: "Clarkson University, Mechanical & Aerospace Engineering"
-date: 2020/01-2022/01
+venue: "Clarkson University, Materials Science & Engineering"
+date: 2022-2025
 location: "Potsdam, NY, USA"
 ---
 
-Carried out two projects as a Research Assistant and a Master of Science student at Mechanical & Aerospace Engineering Department of Clarkson University.
+Carried out several projects as a Research Assistant and a Doctor of Philosophy student at the Materials Science & Engineering Department of Clarkson University.
 
 Project 1
 ======
 
- - Automated In-Situ Testing System: Designed a patent-pending, fully automated, micro-tensile testing setup with a 3-axis motorized stage, precision stepper motors, and integrated software for feature tracking, autofocus, and image processing. This system achieves high-resolution imaging at multiple magnifications, allowing real-time analysis in less than 8.5 minutes.
+ - Hierarchical Deformation in Anisotropic Alloys: Led in-depth characterization of Directed Energy Deposited (DED) Ti-6Al-4V, employing SEM, EBSD, Optical Microscopy, and XRD. Through in-situ SEM micro-tensile testing, identified and described deformation mechanisms, introducing a novel intergranular compatibility theory to explain strength anisotropy.
 
 Project 2
 ======
 
- - Deep Learning for Microscopic Strain Measurement: Developed a deep learning-based framework to segment and track microstructural features in in-situ micro-tensile videos, enhancing accuracy in local strain measurement.
+ - Boron-Enhanced Alloy Design: Engineered multi-walled Ti-6Al-4V alloys with various boron compositions for optimal tensile behavior. Conducted uniaxial tensile testing in multiple orientations, discovering an ideal 0.05 wt.% boron concentration to achieve isotropic tensile properties.
+
+Project 3
+======
+
+ - Residual Stress Measurement and Heat Treatment: Measured residual stresses in Selective Laser Melted (SLM) AlSi10Mg using strain gauges, and performed heat treatments on DED SS 316L, DED Ti-6Al-4V, and SLM Inconel 718 to enhance alloy performance.
+
+Project 4
+======
+
+ - Generative AI for Virtual Tensile Testing: Currently developing an AI framework with latent diffusion modeling to predict deformation up to 20% strain in solution-annealed SS 316L, enabling virtual material testing.
 

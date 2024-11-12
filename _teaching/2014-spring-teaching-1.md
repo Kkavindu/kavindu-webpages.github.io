@@ -1,9 +1,10 @@
 ---
 title: "Research Assistant"
 collection: teaching
+type: "@"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Clarkson University, Mechanical & Aerospace Engineering"
-date: 2020 January - 2022 January
+date: 2020/01-2022/01
 location: "Potsdam, NY, USA"
 ---
 

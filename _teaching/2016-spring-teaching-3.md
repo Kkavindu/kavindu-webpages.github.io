@@ -14,5 +14,5 @@ Project 1
 ======
 
 Designed and prototyped a quadcopter (Mora-X) for aerial mapping, optimizing aerodynamics and weight distribution through topology optimization using SolidWorks, Ansys, and Fusion360.
-![MORA-X](E8.JPG)
-![AHEAD](af8770a0_31731_10.jpg)
+![MORA-X](Figure 6.png 3D model of the final Mora-X quadcopter design.)
+![AHEAD](Figure 5.png An article about the startup that was published in a local newspaper.)

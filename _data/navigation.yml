@@ -14,8 +14,8 @@ main:
   - title: "Patents"
     url: /portfolio/
 
-  #- title: "Professional Experience"
-   # url: /teaching/ 
+  - title: "Professional Experience"
+    url: /teaching/ 
         
   #- title: "Professional Experience"
    # url: /year-archive/

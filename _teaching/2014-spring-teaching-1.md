@@ -1,20 +1,16 @@
 ---
-title: "Teaching experience 1"
+title: "3DMart 3D Printing Service & Freelance Engineering"
 collection: teaching
-type: "Undergraduate course"
+type: "3DMart 3D Printing Service & Freelance Engineering"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Freelancer, Self-Employed"
+date: 2018-04-01
+location: "Colombo, Sri Lanka"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+As the founder of 3D Mart, I offered custom 3D printing and engineering services, handling everything from 3D modeling to advanced simulations like Finite Element Analysis (FEA) and Computational Fluid Dynamics (CFD). Using a Creality Ender 3 printer, I provided rapid prototyping solutions tailored to client needs, delivering high-quality and precise models for a variety of applications.
 
-Heading 1
+Project 1
 ======
 
-Heading 2
-======
-
-Heading 3
-======
+Provided custom 3D printing and engineering services, including 3D modeling, Finite Element Analysis (FEA), and Computational Fluid Dynamics (CFD) simulations for clients. Utilized a Creality Ender 3 printer for rapid prototyping of customer-requested designs.

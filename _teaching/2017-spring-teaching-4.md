@@ -14,7 +14,12 @@ Project 1
 ======
 Automated In-Situ Testing System: Designed a patent-pending, fully automated, micro-tensile testing setup with a 3-axis motorized stage, precision stepper motors, and integrated software for feature tracking, autofocus, and image processing. This system achieves high-resolution imaging at multiple magnifications, allowing real-time analysis in less than 8.5 minutes.
 
+Smart in-situ tensile testing system
+![In-situ stage](Figure 7.png "Smart in-situ tensile testing system")
+
 Project 2
 ======
 Deep Learning for Microscopic Strain Measurement: Developed a deep learning-based framework to segment and track microstructural features in in-situ micro-tensile videos, enhancing accuracy in local strain measurement.
-![Graphical abstract M&D](Figure 4.png)
+
+Deep Learning based microscopic strain measuring technique for in-situ data
+![Graphical abstract M&D](Figure 4.png "Deep Learning based microscopic strain measuring technique for in-situ data")

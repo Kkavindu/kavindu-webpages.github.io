@@ -23,5 +23,5 @@ main:
   - title: "CV"
     url: /files/Kavindu_Wijesinghe_Resume.pdf
     
-  #- title: "Guide"
-  #  url: /markdown/
+  - title: "Guide"
+    url: /markdown/

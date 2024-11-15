@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 5"
+title: "Research Assistant & PhD Candidate"
 collection: teaching
 type: "Research Assistant & PhD Candidate"
 permalink: /teaching/2018-spring-teaching-5

@@ -12,14 +12,14 @@ As a Research Assistant and Ph.D. Candidate at Clarkson University, I have dedic
 
 During my time at Clarkson, I have had the privilege of contributing to several impactful projects in the field of Materials Science and Engineering, with my findings published in Q1 journals. Key projects include:
 
- -Investigating deformation mechanisms influenced by microstructural features that result in anisotropic mechanical properties of Directed Energy Deposited (DED) Ti-6Al-4V.
- -Designing boron-modified DED Ti-6Al-4V alloys for enhanced tensile performance by identifying the optimal boron composition and analyzing the microstructural and deformation mechanisms driving the observed behavior.
- -Precisely measuring residual stresses in SLM (Selective Laser Melting) builds.
- -Predicting material deformation using physics-informed generative AI.
+ - Investigating deformation mechanisms influenced by microstructural features that result in anisotropic mechanical properties of Directed Energy Deposited (DED) Ti-6Al-4V.
+ - Designing boron-modified DED Ti-6Al-4V alloys for enhanced tensile performance by identifying the optimal boron composition and analyzing the microstructural and deformation mechanisms driving the observed behavior.
+ - Precisely measuring residual stresses in SLM (Selective Laser Melting) builds.
+ - Predicting material deformation using physics-informed generative AI.
  
 These projects highlight a commitment to improving alloy performance and reliability in advanced manufacturing applications, emphasizing both practical innovation and scientific rigor.
 
-Project 1
+Investigating deformation mechanisms influenced by microstructural features that result in anisotropic mechanical properties of Directed Energy Deposited (DED) Ti-6Al-4V
 ======
 Hierarchical Deformation in Anisotropic Alloys: Led in-depth characterization of Directed Energy Deposited (DED) Ti-6Al-4V, employing SEM, EBSD, Optical Microscopy, and XRD. Through in-situ SEM micro-tensile testing, deformation mechanisms were identified and described, and a novel intergranular compatibility theory was introduced to explain strength anisotropy.
 

@@ -10,13 +10,12 @@ location: "Colombo, Sri Lanka"
 
 As a Mechanical Engineer in the UAV Laboratory at the University of Moratuwa, I led the design and prototyping of Mora-X, a quadcopter tailored for aerial mapping. This project emphasized optimizing aerodynamics and weight distribution using advanced topology optimization techniques in SolidWorks, Ansys, and Fusion360. The work underscored a focus on precision engineering to enhance UAV performance in real-world applications.
 
-Project 1
+Development of Aerodynamically and topology-optimized quadcopter body (Original design: applied for design patenting)
 ======
-
 Designed and prototyped a quadcopter (Mora-X) for aerial mapping, optimizing aerodynamics and weight distribution through topology optimization using SolidWorks, Ansys, and Fusion360.
 
 3D model of the final Mora-X quadcopter design
 ![MORA-X](Figure 6.png "3D model of the final Mora-X quadcopter design.")
 
-An article about the startup that was published in a local newspaper
+An article published in a local newspaper about the startup
 ![AHEAD](Figure 5.png "An article about the startup that was published in a local newspaper.")

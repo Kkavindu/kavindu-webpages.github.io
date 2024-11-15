@@ -24,11 +24,13 @@ Boron-Enhanced Alloy Design: Engineered multi-walled Ti-6Al-4V alloys with vario
 
 Project 3
 ======
+
+![zdvbds](images/Residual Stress.png)
 Residual Stress Measurement: To validate computational predictions, residual stress values were measured using the separation method (Separated the block from the build plate using a band saw) on a Selective Laser Melted (SLM) AlSi10Mg four-walled build. The measurements were made using 8 uniaxial 350-ohm strain gauges (HBK) mounted on 3 outer walls to measure horizontal and vertical strains.
 
 I used two DAQ devices (National Instruments (NI) 6211 and NI 9184) and NI LabView software for data logging. 
 
-![zdvbds](/images/Residual Stress.png)
+
 
 Project 4
 ======

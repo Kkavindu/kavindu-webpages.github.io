@@ -10,7 +10,7 @@ location: "Ekala, Sri Lanka"
 
 During my internship, I developed an automated tire runout checking device with pneumatic actuation to improve quality control in the tire assembly process. This project integrated automation into the production line, streamlining the inspection process and enhancing overall efficiency and reliability in manufacturing.
 
-Project 1
+Designing an automated tire runout checking device
 ======
 
-Developed an automated tire runout checking device with pneumatic actuation to enhance quality control within the tire assembly process, integrating automation within the production line.
+Designing an automated tire runout checking device with pneumatic actuation to enhance quality control within the tire assembly process, integrating automation within the production line.

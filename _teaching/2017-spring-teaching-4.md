@@ -17,4 +17,4 @@ Automated In-Situ Testing System: Designed a patent-pending, fully automated, mi
 Project 2
 ======
 Deep Learning for Microscopic Strain Measurement: Developed a deep learning-based framework to segment and track microstructural features in in-situ micro-tensile videos, enhancing accuracy in local strain measurement.
-![Graphical abstract M&D](Graphical abstract M&D.PNG)
+![Graphical abstract M&D](Figure 4.png)

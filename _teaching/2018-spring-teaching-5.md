@@ -8,7 +8,16 @@ date: 2022-01-01
 location: "Potsdam, USA"
 ---
 
-As a Research Assistant and Ph.D. Candidate at Clarkson University, I’ve focused on advancing mechanical properties and understanding deformation mechanisms in high-performance alloys. My research spans from designing novel boron-modified titanium alloys to developing generative AI frameworks for virtual tensile testing, bridging materials science with cutting-edge AI technologies. Key projects include the investigating various deformation mechanisms influenced by microstructural features leading to anisotropic mechanical properties of Directed Energy Deposited (DED) Ti-6Al-4V, optimum boron composition for DED Ti-6Al-4V for enhanced tensile performance, precise residual stress measurement in SLM builds, and predict material deformation using physics-informed generative AI. These projects underscore a commitment to improving alloy performance and reliability in advanced manufacturing applications.
+As a Research Assistant and Ph.D. Candidate at Clarkson University, I have dedicated my efforts to advancing the understanding of the process-structure-property relationships in additively manufactured high-performance alloys. My research employs a combination of experimental methods and data-driven approaches, spanning the design of novel alloys to the development of innovative tools that elevate the standards of conventional materials characterization. This work bridges materials science with cutting-edge computer vision technologies.
+
+During my time at Clarkson, I have had the privilege of contributing to several impactful projects in the field of Materials Science and Engineering, with my findings published in Q1 journals. Key projects include:
+
+ -Investigating deformation mechanisms influenced by microstructural features that result in anisotropic mechanical properties of Directed Energy Deposited (DED) Ti-6Al-4V.
+ -Designing boron-modified DED Ti-6Al-4V alloys for enhanced tensile performance by identifying the optimal boron composition and analyzing the microstructural and deformation mechanisms driving the observed behavior.
+ -Precisely measuring residual stresses in SLM (Selective Laser Melting) builds.
+ -Predicting material deformation using physics-informed generative AI.
+ 
+These projects highlight a commitment to improving alloy performance and reliability in advanced manufacturing applications, emphasizing both practical innovation and scientific rigor.
 
 Project 1
 ======

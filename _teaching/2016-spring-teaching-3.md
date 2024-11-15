@@ -3,7 +3,7 @@ title: "Chief Mechanical Engineer"
 collection: teaching
 type: "Chief Mechanical Engineer"
 permalink: /teaching/2016-spring-teaching-3
-venue: "University of Moratuwa, AHEAD UAV Laboratory (Startup)"
+venue: "AHEAD UAV Laboratory (Startup), University of Moratuwa"
 date: 2019-01-01
 location: "Colombo, Sri Lanka"
 ---

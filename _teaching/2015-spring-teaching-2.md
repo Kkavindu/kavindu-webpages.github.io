@@ -1,20 +1,16 @@
 ---
-title: "Teaching experience 2"
+title: "Mechanical Engineering Intern"
 collection: teaching
-type: "Workshop"
+type: "Mechanical Engineering Intern"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "Camso Loadstar Pvt. Ltd., Wheel Manufacturing Division"
+date: 2017-07-01
+location: "Ekala, Sri Lanka"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+During my internship, I developed an automated tire runout checking device with pneumatic actuation to improve quality control in the tire assembly process. This project integrated automation into the production line, streamlining the inspection process and enhancing overall efficiency and reliability in manufacturing.
 
-Heading 1
+Project 1
 ======
 
-Heading 2
-======
-
-Heading 3
-======
+Developed an automated tire runout checking device with pneumatic actuation to enhance quality control within the tire assembly process, integrating automation within the production line.

@@ -1,20 +1,16 @@
 ---
-title: "Teaching experience 3"
+title: "Chief Mechanical Engineer"
 collection: teaching
-type: "Workshop"
+type: "Chief Mechanical Engineer"
 permalink: /teaching/2016-spring-teaching-3
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "University of Moratuwa, AHEAD UAV Laboratory (Startup)"
+date: 2019-01-01
+location: "Colombo, Sri Lanka"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+As a Mechanical Engineer in the UAV Laboratory at the University of Moratuwa, I led the design and prototyping of Mora-X, a quadcopter tailored for aerial mapping. This project emphasized optimizing aerodynamics and weight distribution using advanced topology optimization techniques in SolidWorks, Ansys, and Fusion360. The work underscored a focus on precision engineering to enhance UAV performance in real-world applications.
 
-Heading 1
+Project 1
 ======
 
-Heading 2
-======
-
-Heading 3
-======
+Designed and prototyped a quadcopter (Mora-X) for aerial mapping, optimizing aerodynamics and weight distribution through topology optimization using SolidWorks, Ansys, and Fusion360.

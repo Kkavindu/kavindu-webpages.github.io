@@ -14,3 +14,4 @@ Designing an automated tire runout checking device
 ======
 
 Designing an automated tire runout checking device with pneumatic actuation to enhance quality control within the tire assembly process, integrating automation within the production line.
+![Tire runout checking machine](Figure 10.PNG "Tire runout checking device")

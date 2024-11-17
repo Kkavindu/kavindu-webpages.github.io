@@ -14,3 +14,5 @@ Offering custom 3D printing and engineering services
 ======
 
 Provided custom 3D printing and engineering services, including 3D modeling, Finite Element Analysis (FEA), and Computational Fluid Dynamics (CFD) simulations for clients. Utilized a Creality Ender 3 printer for rapid prototyping of customer-requested designs.
+![3D Mart Projects](Figure 8.PNG)
+![Fiverr Projects](Figure 10.PNG)

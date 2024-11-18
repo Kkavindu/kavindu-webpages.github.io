@@ -78,7 +78,7 @@ Awards: Clarkson Ignite Presidential Scholarship Receiver: 2020-Fall
 Awards: Dean’s List for Academic Excellence: 2017
 
 ### General Certificate of Education Advanced Level Examination in Physical Science Stream
-![Ananda](Ananda_Crest.png){: align="left" width="100px"}
+![Ananda](/Ananda_Crest.png){: align="left" width="100px"}
  - Institute: Ananda College, Colombo, Sri Lanka
  - Pass Grades: Mathematics - A | Phisics - A | Chemistry - A
  - Z-Score: 2.205
@@ -86,7 +86,7 @@ Awards: Dean’s List for Academic Excellence: 2017
  - Completed: August 2013
 
 ### General Certificate of Education Ordinary Level Examination
-![Ananda](Ananda_Crest.png){: align="left" width="100px"}
+![Ananda](/Ananda_Crest.png){: align="left" width="100px"}
  - Institute: Ananda College, Colombo, Sri Lanka
  - Pass Grades: A grades for all 9 subjects
  - Completed: December 2010

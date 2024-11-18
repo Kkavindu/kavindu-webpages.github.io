@@ -1,5 +1,5 @@
 ---
-title: "Mechanical Engineering Intern"
+title: "🔗 Mechanical Engineering Intern"
 collection: teaching
 type: "Mechanical Engineering Intern"
 permalink: /teaching/2015-spring-teaching-1

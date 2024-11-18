@@ -1,5 +1,5 @@
 ---
-title: "Chief Mechanical Engineer"
+title: "🔗 Chief Mechanical Engineer"
 collection: teaching
 type: "Chief Mechanical Engineer"
 permalink: /teaching/2016-spring-teaching-3

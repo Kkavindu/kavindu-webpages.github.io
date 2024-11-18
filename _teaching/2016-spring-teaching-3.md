@@ -14,10 +14,10 @@ Mora-X: A Quadcopter for Aerial Mapping (Original design: applied for design pat
 ======
 I conceptualized, designed, and prototyped Mora-X, a quadcopter tailored for aerial mapping, and applied for a design patent for this original work. The project emphasized optimizing aerodynamics, weight distribution, and aesthetic appeal to create a commercially viable product. Using advanced topology optimization techniques in SolidWorks, Ansys, and AutoCAD, I iterated through several design versions to ensure maximum flight efficiency and structural integrity.
 
-# Prototyping Process:
+## Prototyping Process:
  - I fabricated the prototype using an Ultimaker 3S 3D printer with PLA material, ensuring precision and reliability. To enhance durability, I polished and spray-painted the surfaces with heat-resistant paint, preventing deformation during high-temperature operations.
 
-# Key Achievements:
+## Key Achievements:
 
  - Successfully reduced overall weight without compromising structural strength.
  - Achieved an aerodynamically efficient design, enhancing flight time and stability.

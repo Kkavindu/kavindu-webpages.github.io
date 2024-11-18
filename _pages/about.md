@@ -51,3 +51,43 @@ With a strong foundation in experimental and data-driven techniques, I bring exp
 ### Computer Vision and Artificial Intelligence
  - With proficiency in Python and MATLAB, I specialize in deep learning applications (predictive and generative AI), object detection, segmentation, feature tracking, and algorithm development. My work includes video stabilization, focus stacking, image enhancement, optical flow mapping, and feature extraction, contributing to efficient and accurate data interpretation in experimental material studies.
 
+## Education
+
+### Doctor of Philosophy in Materials Science and Engineering
+Institute: Clarkson University, Potsdam, NY
+Current cumulative GPA: 3.795/4.00
+Started: December 2022
+Expected Graduation: April 2025
+
+### Master of Science in Mechanical Engineering
+Institute: Clarkson University, Potsdam, NY
+Started: January 2020
+Graduated: December 2022
+
+Awards: Clarkson Ignite Presidential Scholarship Receiver: 2020-Fall
+
+### Bachelor of Science (Hons) in Mechanical Engineering
+Institute: University of Moratuwa, Colombo, Sri Lanka
+Cumulative GPA: 3.49/4.2 (Second Class - Upper Division)
+Started: August 2014
+Graduated: December 2018
+
+Awards: Dean’s List for Academic Excellence: 2017
+
+### General Certificate of Education Advanced Level Examination in Physical Science Stream
+Institute: Ananda College, Colombo, Sri Lanka
+Pass Grades: Mathematics - A | Phisics - A | Chemistry - A
+Z-Score: 2.205
+Island Rank: 282
+Completed: August 2013
+
+### General Certificate of Education Ordinary Level Examination
+Institute: Ananda College, Colombo, Sri Lanka
+Pass Grades: A grades for all 9 subjects
+Completed: December 2010
+
+## Leadership & Mentorship
+
+ - Mentored 7 undergraduate summer research students in material testing and characterization techniques, including metal sample preparation, tensile testing, microscopy, and digital image correlation.
+ - Guided students in achieving their research objectives and prepared them for presentations at campus and external showcases.
+ - Provided ongoing support and feedback, fostering a collaborative and productive research environment.

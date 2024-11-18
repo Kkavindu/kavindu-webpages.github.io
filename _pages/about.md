@@ -54,14 +54,14 @@ With a strong foundation in experimental and data-driven techniques, I bring exp
 ## 📚 Education
 
 ### Doctor of Philosophy in Materials Science and Engineering
-![Ananda](images/Ananda_Crest.png){: align="right" width="100px"}
+![Clarkson](images/Green - Clarkson Shield.png){: align="right" width="100px"}
  - Institute: Clarkson University, Potsdam, NY
  - Current cumulative GPA: 3.795/4.00
  - Started: December 2022
  - Expected Graduation: April 2025
 
 ### Master of Science in Mechanical Engineering
-![Ananda](images/Ananda_Crest.png){: align="right" width="100px"}
+![Clarkson](images/Green - Clarkson Shield.png){: align="right" width="100px"}
  - Institute: Clarkson University, Potsdam, NY
  - Started: January 2020
  - Graduated: December 2022
@@ -69,7 +69,7 @@ With a strong foundation in experimental and data-driven techniques, I bring exp
 Awards: Clarkson Ignite Presidential Scholarship Receiver: 2020-Fall
 
 ### Bachelor of Science (Hons) in Mechanical Engineering
-![Ananda](images/Ananda_Crest.png){: align="right" width="100px"}
+![Moratuwa](images/University_of_Moratuwa_logo.png){: align="right" width="100px"}
  - Institute: University of Moratuwa, Colombo, Sri Lanka
  - Cumulative GPA: 3.49/4.2 (Second Class - Upper Division)
  - Started: August 2014

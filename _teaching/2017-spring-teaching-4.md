@@ -1,5 +1,5 @@
 ---
-title: "Research Assistant & MS Candidate"
+title: "🔗 Research Assistant & MS Candidate"
 collection: teaching
 type: "Research Assistant & MS Candidate"
 permalink: /teaching/2017-spring-teaching-4

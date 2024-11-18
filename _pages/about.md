@@ -82,6 +82,7 @@ Awards: Dean’s List for Academic Excellence: 2017
  - Completed: August 2013
 
 ### General Certificate of Education Ordinary Level Examination
+![Ananda](images/Ananda_Crest.png){: align="right" width="280px"}
  - Institute: Ananda College, Colombo, Sri Lanka
  - Pass Grades: A grades for all 9 subjects
  - Completed: December 2010

@@ -94,23 +94,25 @@ Awards: Dean’s List for Academic Excellence: 2017
 ## 🌟👨‍💼 Leadership & Mentorship
 
 ### Mentorship
+
 Research Mentor
- - Mentored 7 undergraduate summer research students in material testing and characterization techniques, including metal sample preparation, tensile testing, microscopy, and digital image correlation (DIC).
+ - Mentored 7 undergraduate summer research students in material testing and characterization techniques, including metal sample preparation, metallurgical imaging including optical and scanning electron microscopy, EBSD acquisition, tensile testing, and digital image correlation (DIC).
  - Guided students in achieving their research objectives and prepared them for presentations at campus and external research showcases.
  - Fostered a collaborative research environment by providing ongoing support and constructive feedback.
 
 ### Leadership
-1 Clarkson University Sri Lankan Students Association
+
+1. Clarkson University Sri Lankan Students Association
 
  - Sports Event Organizer (August 2022 – Present)
  - Organized various events to foster community engagement and promote collaboration among students.
    
-2 University of Moratuwa Mechanical Engineering Society
+2. University of Moratuwa Mechanical Engineering Society
 
  - Committee Member (September 2018 – September 2019)
  - Played a key role in planning and executing student-focused events to promote professional development and networking.
    
-3 University of Moratuwa Classical Music Society
+3. University of Moratuwa Classical Music Society
 
  - Committee Member (October 2017 – October 2018)
  - Organized the university's largest musical event in 2018, showcasing the musical talents of students across all faculties, which was a highly successful and celebrated event.

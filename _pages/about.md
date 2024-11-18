@@ -16,7 +16,7 @@ redirect_from:
 ![DALL-E](images/DALLE2.png){: align="right" width="280px"}
 🔬 My research aims to transform materials science by streamlining the Process-Structure-Property relationship in titanium alloys and other advanced materials for aerospace and high-performance manufacturing applications. I bring hands-on experience in experimental characterization, understanding how time-consuming, costly, and variable these processes can be. With this background, I am driven to develop AI-driven methods and automated systems that enhance efficiency, consistency, and insight in material design, paving the way for precision-tailored properties under diverse testing conditions.
 
-## Research Focus
+## 🧐 Research Focus
 
 My research integrates advanced experimental techniques with AI and automation to drive material innovation. Key areas include:
 
@@ -35,7 +35,7 @@ I develop AI tools for rapid, high-accuracy analysis of experimental data, parti
  - Generative AI for Virtual Testing
 I develop generative AI models, including Latent Diffusion Models (LDM), that predict the deformation behavior of experimentally observed microstructures under simulated conditions. This virtual testing capability accelerates material design iterations by providing a cost-effective method to explore material behavior across various conditions before or by completely replacing physical testing.
 
-## Technical Expertise
+## ✨ Technical Expertise
 
 With a strong foundation in experimental and data-driven techniques, I bring expertise across the following areas:
 
@@ -51,42 +51,47 @@ With a strong foundation in experimental and data-driven techniques, I bring exp
 ### Computer Vision and Artificial Intelligence
  - With proficiency in Python and MATLAB, I specialize in deep learning applications (predictive and generative AI), object detection, segmentation, feature tracking, and algorithm development. My work includes video stabilization, focus stacking, image enhancement, optical flow mapping, and feature extraction, contributing to efficient and accurate data interpretation in experimental material studies.
 
-## Education
+## 📚 Education
 
 ### Doctor of Philosophy in Materials Science and Engineering
-Institute: Clarkson University, Potsdam, NY
-Current cumulative GPA: 3.795/4.00
-Started: December 2022
-Expected Graduation: April 2025
+![Clarkson](Green - Clarkson Shield.png){: align="left" width="100px"}
+ - Institute: Clarkson University, Potsdam, NY
+ - Current cumulative GPA: 3.795/4.00
+ - Started: December 2022
+ - Expected Graduation: April 2025
 
 ### Master of Science in Mechanical Engineering
-Institute: Clarkson University, Potsdam, NY
-Started: January 2020
-Graduated: December 2022
+![Clarkson](Green - Clarkson Shield.png){: align="left" width="100px"}
+ - Institute: Clarkson University, Potsdam, NY
+ - Started: January 2020
+ - Graduated: December 2022
 
 Awards: Clarkson Ignite Presidential Scholarship Receiver: 2020-Fall
 
 ### Bachelor of Science (Hons) in Mechanical Engineering
-Institute: University of Moratuwa, Colombo, Sri Lanka
-Cumulative GPA: 3.49/4.2 (Second Class - Upper Division)
-Started: August 2014
-Graduated: December 2018
+![Moratuwa](University_of_Moratuwa_logo.png){: align="left" width="100px"}
+ - Institute: University of Moratuwa, Colombo, Sri Lanka
+ - Cumulative GPA: 3.49/4.2 (Second Class - Upper Division)
+ - Started: August 2014
+ - Graduated: December 2018
 
 Awards: Dean’s List for Academic Excellence: 2017
 
 ### General Certificate of Education Advanced Level Examination in Physical Science Stream
-Institute: Ananda College, Colombo, Sri Lanka
-Pass Grades: Mathematics - A | Phisics - A | Chemistry - A
-Z-Score: 2.205
-Island Rank: 282
-Completed: August 2013
+![Ananda](Ananda_Crest.png){: align="left" width="100px"}
+ - Institute: Ananda College, Colombo, Sri Lanka
+ - Pass Grades: Mathematics - A | Phisics - A | Chemistry - A
+ - Z-Score: 2.205
+ - Island Rank: 282
+ - Completed: August 2013
 
 ### General Certificate of Education Ordinary Level Examination
-Institute: Ananda College, Colombo, Sri Lanka
-Pass Grades: A grades for all 9 subjects
-Completed: December 2010
+![Ananda](Ananda_Crest.png){: align="left" width="100px"}
+ - Institute: Ananda College, Colombo, Sri Lanka
+ - Pass Grades: A grades for all 9 subjects
+ - Completed: December 2010
 
-## Leadership & Mentorship
+## 🌟👨‍💼 Leadership & Mentorship
 
  - Mentored 7 undergraduate summer research students in material testing and characterization techniques, including metal sample preparation, tensile testing, microscopy, and digital image correlation.
  - Guided students in achieving their research objectives and prepared them for presentations at campus and external showcases.

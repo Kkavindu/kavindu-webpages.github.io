@@ -10,9 +10,22 @@ location: "Potsdam, USA"
 
 In my role as a Research Assistant and MS Candidate at Clarkson University, I specialized in developing automated systems and deep learning solutions for precise material testing. My work included designing a patent-pending micro-tensile testing system featuring a fully automated, high-resolution imaging setup for real-time analysis. I also pioneered a deep learning framework to enhance microscopic strain measurement by tracking microstructural features in in-situ videos, achieving unprecedented accuracy in strain analysis. These projects represent my commitment to advancing material testing through automation and AI innovation.
 
-Development of Automated In-Situ Testing System
+Development of Automated In-Situ Testing System (Patent pending)
 ======
-Designed a patent-pending, fully automated, micro-tensile testing setup with a 3-axis motorized stage, precision stepper motors, and integrated software for feature tracking, autofocus, and image processing. This system achieves high-resolution imaging at multiple magnifications, allowing real-time analysis in less than 8.5 minutes.
+I designed and developed a fully automated in-situ micro-tensile testing system, now patent-pending, to enable high-resolution, in-situ microscopic deformation video acquisition. Built entirely from scratch, this innovative setup integrates mechanical precision, advanced imaging capabilities, and software-driven automation to deliver real-time high quality and high throuput data generation.
+
+The system features a 3-axis motorized stage with precision stepper motors, providing exceptional control over specimen positioning during tensile testing. Paired with a high-load micro-tensile tester, it captures critical deformation events under controlled loading conditions. High-resolution inverted upright optical microscopy at multiple magnifications (5X, 10X, and 20X) ensures detailed visualization of microstructural evolution during deformation.
+
+To enhance usability and performance, I developed a robust software suite that integrates:
+
+ - Feature Tracking: Automated detection and real-time tracking of microstructural features to maintain the original location within the field of view.
+ - Dynamic Autofocus and Focus Stacking: Intelligent algorithms to capture the entire field of view within focus especially at high strain levels during testing.
+ - Panoramic Imaging: The latest addon to the system for capturing in-situ videos of the entire specimen surface for comprehensive microstructural studies.
+ - Image Stabilization: Advanced post-processing features to generate final high-resolution videos.
+
+This system not only delivers high-quality, real-time data in less than 8.5 minutes but also addresses longstanding challenges in in-situ testing, such as reducing variability and accelerating testing workflows. It has become a cornerstone of research at Clarkson University, where it is heavily utilized across multiple projects, supporting advancements in materials science and mechanical engineering.
+
+Building on its success, we are working with Micron LLC, a startup company based in Potsdam, NY, to commercialize this system as a marketable product. This initiative aims to bring cutting-edge, automated in-situ micro-tensile testing capabilities to a broader audience in academia and industry, revolutionizing the way materials are studied and characterized at the microscale.
 
 Smart in-situ tensile testing system
 ![In-situ stage](Figure 7.png "Smart in-situ tensile testing system")

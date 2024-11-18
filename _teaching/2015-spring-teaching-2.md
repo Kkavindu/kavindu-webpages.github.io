@@ -20,5 +20,5 @@ Using SolidWorks and AutoCAD, we developed a comprehensive and detailed design f
 
 Beyond technical contributions, this internship was transformative for my professional growth. Working in a dynamic R&D environment, I developed a strong appreciation for the intersection of automation and manufacturing technologies. It solidified my interest in pursuing innovative solutions to engineering challenges, setting the stage for my future academic and professional pursuits.
 
-Designed automated tire runout checking device with pneumatic actuation to enhance quality control within the tire assembly process.
+Designed automated tire runout checking device.
 ![Tire runout checking machine](Figure 9.PNG "Tire runout checking device")

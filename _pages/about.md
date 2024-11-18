@@ -54,16 +54,12 @@ With a strong foundation in experimental and data-driven techniques, I bring exp
 ## 📚 Education
 
 ### Doctor of Philosophy in Materials Science and Engineering
-
-![Clarkson](Green - Clarkson Shield.png){: align="left" width="100px"}
  - Institute: Clarkson University, Potsdam, NY
  - Current cumulative GPA: 3.795/4.00
  - Started: December 2022
  - Expected Graduation: April 2025
 
 ### Master of Science in Mechanical Engineering
-
-![Clarkson](Green - Clarkson Shield.png){: align="left" width="100px"}
  - Institute: Clarkson University, Potsdam, NY
  - Started: January 2020
  - Graduated: December 2022
@@ -71,8 +67,6 @@ With a strong foundation in experimental and data-driven techniques, I bring exp
 Awards: Clarkson Ignite Presidential Scholarship Receiver: 2020-Fall
 
 ### Bachelor of Science (Hons) in Mechanical Engineering
-
-![Moratuwa](University_of_Moratuwa_logo.png){: align="left" width="100px"}
  - Institute: University of Moratuwa, Colombo, Sri Lanka
  - Cumulative GPA: 3.49/4.2 (Second Class - Upper Division)
  - Started: August 2014
@@ -81,16 +75,13 @@ Awards: Clarkson Ignite Presidential Scholarship Receiver: 2020-Fall
 Awards: Dean’s List for Academic Excellence: 2017
 
 ### General Certificate of Education Advanced Level Examination in Physical Science Stream
-
-![Ananda](Ananda_Crest.png){: align="left" width="100px"}
  - Institute: Ananda College, Colombo, Sri Lanka
- - Pass Grades: Mathematics - A | Phisics - A | Chemistry - A
+ - Pass Grades: A grades for Mathematics, Phisics & Chemistry
  - Z-Score: 2.205
  - Island Rank: 282
  - Completed: August 2013
 
 ### General Certificate of Education Ordinary Level Examination
-![Ananda](Ananda_Crest.png){: align="right" width="100px"}
  - Institute: Ananda College, Colombo, Sri Lanka
  - Pass Grades: A grades for all 9 subjects
  - Completed: December 2010

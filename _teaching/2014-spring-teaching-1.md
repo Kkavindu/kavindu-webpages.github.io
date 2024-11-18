@@ -1,5 +1,5 @@
 ---
-title: "3DMart 3D Printing Service & Freelancer"
+title: "🔗 3DMart: 3D Printing & Engineering Services"
 collection: teaching
 type: "3DMart 3D Printing Service & Freelancer"
 permalink: /teaching/2014-spring-teaching-1

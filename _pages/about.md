@@ -77,15 +77,15 @@ Awards: Clarkson Ignite Presidential Scholarship Receiver: 2020-Fall
 
 Awards: Dean’s List for Academic Excellence: 2017
 
-### General Certificate of Education Advanced Level Examination in Physical Science Stream
+### General Certificate of Education Advanced Level Examination in Physical Science Stream (Equivalent the US Advanced Placement (AP) program or the International Baccalaureate (IB) program)
 ![Ananda](images/Ananda_Crest.png){: align="right" width="100px"}
  - Institute: Ananda College, Colombo, Sri Lanka
- - Pass Grades: A grades for Mathematics, Phisics & Chemistry
+ - Pass Grades: A grades for subjects (Mathematics, Physics & Chemistry)
  - Z-Score: 2.205
- - Island Rank: 282
+ - Rank in the country: 282
  - Completed: August 2013
 
-### General Certificate of Education Ordinary Level Examination
+### General Certificate of Education Ordinary Level Examination (Equivalent to US High School Diploma)
 ![Ananda](images/Ananda_Crest.png){: align="right" width="100px"}
  - Institute: Ananda College, Colombo, Sri Lanka
  - Pass Grades: A grades for all 9 subjects

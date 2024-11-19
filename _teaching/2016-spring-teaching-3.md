@@ -23,7 +23,7 @@ I conceptualized, designed, and prototyped Mora-X, a quadcopter tailored for aer
  - Achieved an aerodynamically efficient design, enhancing flight time and stability.
  - Integrated sleek, marketable aesthetics to position Mora-X as a sellable product.
 
-Final design and prototype of the final Mora-X quadcopter
+Final design and prototype of the Mora-X quadcopter
 ![MORA-X](Figure 6.png "3D model of the final Mora-X quadcopter design.")
 ![MORA-X 2](Figure 11.png "Final design and prototype of the final Mora-X quadcopter")
 

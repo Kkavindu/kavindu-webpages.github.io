@@ -25,20 +25,20 @@ I conceptualized, designed, and prototyped Mora-X, a quadcopter tailored for aer
 
 Final design and prototype of the final Mora-X quadcopter
 ![MORA-X](Figure 6.png "3D model of the final Mora-X quadcopter design.")
-![MORA-X 2](Figure 11.PNG "Final design and prototype of the final Mora-X quadcopter")
+![MORA-X 2](Figure 11.png "Final design and prototype of the final Mora-X quadcopter")
 
 Aerodynamic and structural simulations for optimizing the design
-![MORA-X simulations](Figure 13.PNG "Aerodynamic and structural simulations for optimizing the design")
+![MORA-X simulations](Figure 13.png "Aerodynamic and structural simulations for optimizing the design")
 
 Fabrication of different components
-![MORA-X Fabrication](Figure 12.PNG "Fabrication of different components")
+![MORA-X Fabrication](Figure 12.png "Fabrication of different components")
 
 Vertical Take-Off and Landing (V-TOL) UAV
 ======
 I contributed to the conceptual and preliminary design of a V-TOL UAV. This project aimed to develop a UAV capable of combining the flexibility of vertical take-off with efficient horizontal flight. While I transitioned to my role at Clarkson University before completing this project, I played a pivotal role in initiating its design and direction.
 
 Preliminary design of V-TOL UAV
-![V-TOL](Figure 14.PNG "Preliminary design of V-TOL UAV")
+![V-TOL](Figure 14.png "Preliminary design of V-TOL UAV")
 
 Additional Experience
 ======

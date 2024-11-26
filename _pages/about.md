@@ -66,6 +66,7 @@ With a strong foundation in experimental and data-driven techniques, I bring exp
 ### Master of Science in Mechanical Engineering
 ![Clarkson](images/Green - Clarkson Shield.png){: align="right" width="100px"}
  - Institute: Clarkson University, Potsdam, NY
+ - Cumulative GPA: 3.83/4.0
  - Started: January 2020
  - Graduated: December 2022
 
@@ -74,7 +75,7 @@ Awards: Clarkson Ignite Presidential Scholarship Receiver: 2020-Fall
 ### Bachelor of Science (Hons) in Mechanical Engineering
 ![Moratuwa](images/University_of_Moratuwa_logo.png){: align="right" width="100px"}
  - Institute: University of Moratuwa, Colombo, Sri Lanka
- - Cumulative GPA: 3.49/4.2 (Second Class - Upper Division)
+ - Cumulative GPA: 3.49/4.2
  - Started: August 2014
  - Graduated: December 2018
 

@@ -1,5 +1,5 @@
 ---
-title: "Methods and apparatus for a mechanical testing system to characterize the heterogeneous deformation at microscale (Pending patent)"
+title: "🔗 Methods and apparatus for a mechanical testing system to characterize the heterogeneous deformation at microscale (Pending patent)"
 permalink: /_portfolio/portfolio-1
 collection: portfolio
 ---

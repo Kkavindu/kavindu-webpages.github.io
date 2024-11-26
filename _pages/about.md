@@ -51,6 +51,9 @@ With a strong foundation in experimental and data-driven techniques, I bring exp
 ### Computer Vision and Artificial Intelligence
  - With proficiency in Python and MATLAB, I specialize in deep learning applications (predictive and generative AI), object detection, segmentation, feature tracking, and algorithm development. My work includes video stabilization, focus stacking, image enhancement, optical flow mapping, and feature extraction, contributing to efficient and accurate data interpretation in experimental material studies.
 
+### Software and Computational Proficiencies
+![Softwares and tools](images/Figure 15.png)
+
 ## 📚 Education
 
 ### Doctor of Philosophy in Materials Science and Engineering

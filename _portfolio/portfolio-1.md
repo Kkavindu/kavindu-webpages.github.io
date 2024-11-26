@@ -8,5 +8,5 @@ This pending patent involves a high-precision, 3-axis motorized stage integrated
 
 Automation software developed in C++ (Arduino) and Python provides advanced functionality, including feature tracking, autofocus, panoramic imaging, and post-processing enhancements such as focus stacking and image stabilization. This setup allows for rapid, precise analysis of heterogeneous deformation across complex microstructures.
 
-![patent](images/Figure 16.png)
+![patent](Figure 16.png)
 

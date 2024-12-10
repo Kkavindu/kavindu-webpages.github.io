@@ -35,6 +35,8 @@ I develop AI tools for rapid, high-accuracy analysis of experimental data, parti
  - Generative AI for Virtual Testing
 I develop generative AI models, including Latent Diffusion Models (LDM), that predict the deformation behavior of experimentally observed microstructures under simulated conditions. This virtual testing capability accelerates material design iterations by providing a cost-effective method to explore material behavior across various conditions before or by completely replacing physical testing.
 
+![Demo Video](images/Updated Demo Video.avi)
+
 ## ✨ Technical Expertise
 
 With a strong foundation in experimental and data-driven techniques, I bring expertise across the following areas:

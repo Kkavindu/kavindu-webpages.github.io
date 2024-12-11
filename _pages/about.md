@@ -9,11 +9,11 @@ redirect_from:
 ---
 ## Hello there!
 
+![D](images/DALLE2.png){: align="right" width="300px"}
 👨🏻‍💻 I am <b>Kavindu Wijesinghe</b>, a <b>final-year Ph.D. Candidate in Materials Science and Engineering</b> at <b>Clarkson University</b>. I specialize in <b>metal additive manufacturing</b>, integrating <b>AI, automation, and advanced material characterization</b> to design next-generation materials for aerospace and advanced manufacturing industries.
 
 🔎 <b>Bridging the gap between experimentation and innovation with cutting-edge technologies.</b>
 
-![D](images/DALLE2.png){: align="right" width="300px"}
 📌 <b>What I Do</b>
 
  - 🔬 <b>Advanced Material Characterization</b>
@@ -59,7 +59,7 @@ redirect_from:
 🚀 Whether you’re looking to collaborate on transformative research, explore new opportunities, or discuss innovative solutions, I’d love to hear from you.
 
 📧 Email: k.kanchuka@gmail.com
-🔗 LinkedIn: [Your LinkedIn Profile Link]
+🔗 LinkedIn: https://linkedin.com/in/kavindu-wijesinghe-a366b5274
 📄 Resume: [Link to Downloadable PDF Resume]
 
 My research integrates advanced experimental techniques with AI and automation to drive material innovation. Key areas include:

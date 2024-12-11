@@ -8,11 +8,20 @@ redirect_from:
 
 ---
 
-👨🏻‍💻 I am <b>Kavindu Wijesinghe</b>, a <b>final-year Ph.D. Candidate in Materials Science and Engineering</b> at <mark>Clarkson University</b>. I specialize in <b>metal additive manufacturing</b>, integrating <b>AI, automation, and advanced material characterization</b> to design next-generation materials for aerospace and advanced manufacturing industries.
+👨🏻‍💻 I am <b>Kavindu Wijesinghe</b>, a <b>final-year Ph.D. Candidate in Materials Science and Engineering</b> at <b>Clarkson University</b>. I specialize in <b>metal additive manufacturing</b>, integrating <b>AI, automation, and advanced material characterization</b> to design next-generation materials for aerospace and advanced manufacturing industries.
 
 🔎 <b>Bridging the gap between experimentation and innovation with cutting-edge technologies.</b>
 
-![DALL-E](images/DALLE2.png){: align="right" width="280px"}
+##
+
+![Impactful image](images/Figure 17.png)
+
+📌 What I Do
+
+ - 🔬 Advanced Material Characterization
+ - 🤖 AI & Computer Vision Integration
+ - 🛠️ Experimental Automation
+ - ✈️ Product Design and Development
 
 ## 🧐 Research Focus
 

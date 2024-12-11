@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "👋🏼 Hello there, I'm Kavindu!"
+title: "📢 Welcome to My Professional Portfolio"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,13 +8,11 @@ redirect_from:
 
 ---
 
-## About
+👨🏻‍💻 I am <mark>Kavindu Wijesinghe</mark>, a <mark>final-year Ph.D. Candidate in Materials Science and Engineering</mark> at <mark>Clarkson University</mark>. I specialize in <mark>metal additive manufacturing</mark>, integrating <mark>AI, automation, and advanced material characterization</mark> to design next-generation materials for aerospace and advanced manufacturing industries.
 
-
-👨🏻‍💻 I am a final-year Ph.D. candidate and research assistant at Clarkson University, specializing in materials science, mechanical engineering, and computer vision, with a focus on accelerating material design through AI and automation.
+🔎 <mark>Bridging the gap between experimentation and innovation with cutting-edge technologies.</mark>
 
 ![DALL-E](images/DALLE2.png){: align="right" width="280px"}
-🔬 My research aims to transform materials science by streamlining the Process-Structure-Property relationship in titanium alloys and other advanced materials for aerospace and high-performance manufacturing applications. I bring hands-on experience in experimental characterization, understanding how time-consuming, costly, and variable these processes can be. With this background, I am driven to develop AI-driven methods and automated systems that enhance efficiency, consistency, and insight in material design, paving the way for precision-tailored properties under diverse testing conditions.
 
 ## 🧐 Research Focus
 

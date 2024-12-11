@@ -13,14 +13,13 @@ redirect_from:
 
 🔎 <b>Bridging the gap between experimentation and innovation with cutting-edge technologies.</b>
 
-![Impactful image](images/Figure 17.png)
-
-📌 What I Do
+![D](images/DALLE2.png){: align="right" width="300px"}
+📌 <b>What I Do
 
  - 🔬 Advanced Material Characterization
  - 🤖 AI & Computer Vision Integration
  - 🛠️ Experimental Automation
- - ✈️ Product Design and Development
+ - ✈️ Product Design and Development</b>
 
 ## 🧐 Research Focus
 
@@ -126,3 +125,5 @@ Awards: Dean’s List for Academic Excellence: 2017
 
  - Committee Member (October 2017 – October 2018)
  - Organized the university's largest musical event in 2018, showcasing the musical talents of students across all faculties, which was a highly successful and celebrated event.
+
+![Impactful image](images/Figure 17.png)

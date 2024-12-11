@@ -6,12 +6,12 @@ author_profile: true
 redirect_from:
   - /wordpress/blog-posts/
 ---
-Overview
+## Overview
 👨🏻‍💻 I am a Ph.D. Candidate in Materials Science and Engineering at Clarkson University, specializing in mechanical engineering, metallurgy, and artificial intelligence. My work integrates advanced material characterization, deep learning-based tools, and automated systems to address challenges in metal additive manufacturing.
 
 I focus on exploring Process-Structure-Property relationships to enhance material performance, particularly for cutting-edge applications in aerospace and advanced manufacturing industries.
 
-Research Focus
+## Research Focus
 1. Deformation Mechanisms in Additive Manufacturing
 Investigated materials like Ti-6Al-4V, boron-modified Ti-6Al-4V, and stainless steel 316L.
 Utilized advanced techniques: SEM, EBSD, EDS, XRD, AFM, optical microscopy, and in-situ tensile testing.
@@ -23,7 +23,7 @@ Predicting material deformation with latent video diffusion models.
 Designed a patent-pending micro-tensile testing system for real-time strain measurement and high-resolution microstructural analysis.
 4. Structure-Property Relationships
 Established the relationships between alloy composition, microstructure, and mechanical behavior under various loading conditions.
-Key Achievements
+## Key Achievements
 🚀 Patent-Pending Automated System
 
 Developed a micro-tensile testing system capable of real-time strain measurement and high-resolution imaging.
@@ -39,7 +39,7 @@ Established structure-property relationships and deformation mechanisms for addi
 🏆 Award-Winning Research and Innovation
 
 Recipient of multiple research excellence awards for contributions to AI-driven material design and experimental automation.
-Education
+## Education
 🎓 Ph.D. Candidate in Materials Science and Engineering
 
 Clarkson University | Expected: [Insert Graduation Year]
@@ -54,7 +54,7 @@ University of Moratuwa
 [Award Name/Year]: Outstanding Research Achievement
 [Award Name/Year]: Best Innovation in Experimental Automation
 [Award Name/Year]: Top Paper Award in [specific conference/journal]
-Software and Computational Proficiencies
+## Software and Computational Proficiencies
 🖥️ Programming Languages:
 
 Python, C++, MATLAB
@@ -86,7 +86,7 @@ Development of automated micro-tensile testing systems
 Additive Manufacturing
 
 Alloy design, process optimization, structure-property relationships
-Professional Vision
+## Professional Vision
 I am passionate about combining advanced technologies and innovative research to drive breakthroughs in material design and manufacturing. My focus on experimental and computational methods has enabled me to tackle complex problems in metal additive manufacturing while bridging gaps between research and real-world applications.
 
 🔗 What I Offer:
@@ -95,38 +95,3 @@ Innovative Problem-Solving: Integrating AI and automation for efficient and accu
 Interdisciplinary Expertise: Experience in materials science, computer vision, and automated systems.
 Collaboration and Leadership: Proven ability to lead projects, mentor teams, and deliver impactful results.
 I aim to contribute to transformative projects that reshape the future of engineering and technology, especially for aerospace and advanced manufacturing applications.
-
-Standout Features for Job Search
-🔹 Portfolio of Innovations:
-Include visual elements like high-quality images or short videos showcasing:
-
-Automated micro-tensile testing system in action.
-AI-based strain measurement results from in-situ tensile videos.
-Simulation outputs for deformation prediction using latent diffusion models.
-🔹 Research Publications:
-Create a dedicated section or downloadable PDF listing:
-
-Journal papers, conference presentations, and awards.
-🔹 Interactive Research Summaries:
-Offer simplified, visually engaging summaries of your key projects. Use interactive charts or infographics to explain your findings, such as:
-
-Structure-property relationships.
-AI-predicted vs. experimental results.
-🔹 Testimonials or Recommendations:
-Feature a few quotes or testimonials from professors, advisors, or collaborators highlighting your contributions, innovation, and problem-solving abilities.
-
-🔹 Downloadable Resume/CV:
-Include a clean, updated PDF version of your resume for potential recruiters.
-
-
-
-{% include base_path %}
-{% capture written_year %}'None'{% endcapture %}
-{% for post in site.posts %}
-  {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
-  {% if year != written_year %}
-    <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
-    {% capture written_year %}{{ year }}{% endcapture %}
-  {% endif %}
-  {% include archive-single.html %}
-{% endfor %}

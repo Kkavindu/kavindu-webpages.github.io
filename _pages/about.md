@@ -30,13 +30,13 @@ redirect_from:
 
 ## 🖥️ Technical Proficiencies
 
-<b>Programming</b> | Python | C++ | MATLAB
-<b>AI/ML Tools</b> | PyTorch | TensorFlow | OpenCV
-<b>Material Characterization</b> | SEM | EBSD | EDS | XRD | AFM | Optical Microscopy| MTEX | NCORR | Aztec
-<b>Automation</b> | Arduino | Raspberry Pi | LabVIEW | STEP7
-<b>Product Design</b> | Solidworks | PTC Creo | Siemens NX | AutoCAD | 3DS Max
-<b>Simulation</b> | Ansys | Comsol Multiphysics
-<b>Other</b> | Photoshop | Davinci Resolve | Blender | ImageJ
+ - <b>Programming</b> | Python | C++ | MATLAB
+ - <b>AI/ML Tools</b> | PyTorch | TensorFlow | OpenCV
+ - <b>Material Characterization</b> | SEM | EBSD | EDS | XRD | AFM | Optical Microscopy| MTEX | NCORR | Aztec
+ - <b>Automation</b> | Arduino | Raspberry Pi | LabVIEW | STEP7
+ - <b>Product Design</b> | Solidworks | PTC Creo | Siemens NX | AutoCAD | 3DS Max
+ - <b>Simulation</b> | Ansys | Comsol Multiphysics
+ - <b>Other</b> | Photoshop | Davinci Resolve | Blender | ImageJ
 
 ## Why Work With Me?
 
@@ -50,10 +50,7 @@ redirect_from:
 
 🚀 Whether you’re looking to collaborate on transformative research, explore new opportunities, or discuss innovative solutions, I’d love to hear from you.
 
-{% if site.author.email %}
-  <div class="wordwrap"><a href="{{site.author.email}}">📧 Email</a>.</div>
-{% endif %}
-
-📧 Email: k.kanchuka@gmail.com | 🔗 LinkedIn: https://linkedin.com/in/kavindu-wijesinghe-a366b5274 | 📄 Resume: /files/Kavindu_Wijesinghe_Resume.pdf
+ - 📧 Email: k.kanchuka@gmail.com
+ - 🔗 LinkedIn: https://linkedin.com/in/kavindu-wijesinghe-a366b5274
 
 ![Impactful image](images/Figure 18.png)

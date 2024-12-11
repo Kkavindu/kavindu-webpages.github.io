@@ -4,174 +4,119 @@ layout: archive
 permalink: /archive-layout-with-content/
 ---
 
-A variety of common markup showing how the theme styles them.
+## Overview
+👨🏻‍💻 I am a Ph.D. Candidate in Materials Science and Engineering at Clarkson University, specializing in mechanical engineering, metallurgy, and artificial intelligence. My work integrates advanced material characterization, deep learning-based tools, and automated systems to address challenges in metal additive manufacturing.
 
-# Header one
+I focus on exploring Process-Structure-Property relationships to enhance material performance, particularly for cutting-edge applications in aerospace and advanced manufacturing industries.
 
-## Header two
+## Research Focus
+1. Deformation Mechanisms in Additive Manufacturing
+Investigated materials like Ti-6Al-4V, boron-modified Ti-6Al-4V, and stainless steel 316L.
+Utilized advanced techniques: SEM, EBSD, EDS, XRD, AFM, optical microscopy, and in-situ tensile testing.
+2. AI-Driven Innovations for Material Design
+Developed deep learning tools for:
+Strain measurement through feature segmentation and tracking.
+Predicting material deformation with latent video diffusion models.
+3. Automated Micro-Tensile Testing Systems
+Designed a patent-pending micro-tensile testing system for real-time strain measurement and high-resolution microstructural analysis.
+4. Structure-Property Relationships
+Established the relationships between alloy composition, microstructure, and mechanical behavior under various loading conditions.
 
-### Header three
+## ✨ Technical Expertise
 
-#### Header four
+With a strong foundation in experimental and data-driven techniques, I bring expertise across the following areas:
 
-##### Header five
+### Material Characterization
+ - I am skilled in advanced characterization techniques, including Scanning Electron Microscopy (SEM), Optical Microscopy (OM), In-situ/Ex-situ SEM/OM, X-ray Diffraction (XRD), Electron Backscatter Diffraction (EBSD), Energy Dispersive Spectroscopy (EDS), Atomic Force Microscopy (AFM), Nanoindentation, and Uniaxial Tensile Testing. My experience extends to metallic sample preparation (mechanical & electro-chemical polishing/etching), Digital Image Correlation (DIC), surface roughness measurement, heat treatment, and residual stress measurement using strain gages.
 
-###### Header six
+### Manufacturing Techniques
+ - I have hands-on experience with advanced and traditional manufacturing methods, including Selective Laser Melting (SLM) of stainless steel 316L, Fused Deposition Modeling (FDM) of polymers (PLA), and manual machining (lathe, milling, and drilling). Additionally, I am skilled in CNC programming, arc welding, laser cutting, and soldering, providing a comprehensive manufacturing background.
 
-## Blockquotes
+### Automation & Robotics
+ - I design and implement custom automation solutions in materials testing and industrial settings, with expertise in microcontroller programming (Arduino, ESP32, Raspberry Pi) and Siemens PLC systems. My automation solutions support high-precision and high-throughput testing, integral to accelerating the iterative design process.
 
-Single line blockquote:
+### Computer Vision and Artificial Intelligence
+ - With proficiency in Python and MATLAB, I specialize in deep learning applications (predictive and generative AI), object detection, segmentation, feature tracking, and algorithm development. My work includes video stabilization, focus stacking, image enhancement, optical flow mapping, and feature extraction, contributing to efficient and accurate data interpretation in experimental material studies.
 
-> Quotes are cool.
+### Software and Computational Proficiencies
+![Softwares and tools](images/Figure 15.png)
 
-## Tables
+## 📚 Education
 
-| Entry            | Item   |                                                              |
-| --------         | ------ | ------------------------------------------------------------ |
-| [John Doe](#)    | 2016   | Description of the item in the list                          |
-| [Jane Doe](#)    | 2019   | Description of the item in the list                          |
-| [Doe Doe](#)     | 2022   | Description of the item in the list                          |
+### Doctor of Philosophy in Materials Science and Engineering
+![Clarkson](images/Green - Clarkson Shield.png){: align="right" width="100px"}
+ - Institute: Clarkson University, Potsdam, NY
+ - Current cumulative GPA: 3.795/4.00
+ - Started: December 2022
+ - Expected Graduation: April 2025
 
-| Header1 | Header2 | Header3 |
-|:--------|:-------:|--------:|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|-----------------------------|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|=============================|
-| Foot1   | Foot2   | Foot3   |
+### Master of Science in Mechanical Engineering
+![Clarkson](images/Green - Clarkson Shield.png){: align="right" width="100px"}
+ - Institute: Clarkson University, Potsdam, NY
+ - Cumulative GPA: 3.83/4.0
+ - Started: January 2020
+ - Graduated: December 2022
 
-## Definition Lists
+Awards: Clarkson Ignite Presidential Scholarship Receiver: 2020-Fall
 
-Definition List Title
-:   Definition list division.
+### Bachelor of Science (Hons) in Mechanical Engineering
+![Moratuwa](images/University_of_Moratuwa_logo.png){: align="right" width="100px"}
+ - Institute: University of Moratuwa, Colombo, Sri Lanka
+ - Cumulative GPA: 3.49/4.2
+ - Started: August 2014
+ - Graduated: December 2018
 
-Startup
-:   A startup company or startup is a company or temporary organization designed to search for a repeatable and scalable business model.
+Awards: Dean’s List for Academic Excellence: 2017
 
-#dowork
-:   Coined by Rob Dyrdek and his personal body guard Christopher "Big Black" Boykins, "Do Work" works as a self motivator, to motivating your friends.
+### General Certificate of Education Advanced Level Examination in Physical Science Stream (Equivalent the US Advanced Placement (AP) program or the International Baccalaureate (IB) program)
+![Ananda](images/Ananda_Crest.png){: align="right" width="100px"}
+ - Institute: Ananda College, Colombo, Sri Lanka
+ - Pass Grades: A grades for subjects (Mathematics, Physics & Chemistry)
+ - Z-Score: 2.205
+ - Rank in the country: 282
+ - Completed: August 2013
 
-Do It Live
-:   I'll let Bill O'Reilly [explain](https://www.youtube.com/watch?v=O_HyZ5aW76c "We'll Do It Live") this one.
+### General Certificate of Education Ordinary Level Examination (Equivalent to US High School Diploma)
+![Ananda](images/Ananda_Crest.png){: align="right" width="100px"}
+ - Institute: Ananda College, Colombo, Sri Lanka
+ - Pass Grades: A grades for all 9 subjects
+ - Completed: December 2010
 
-## Unordered Lists (Nested)
+## 🌟👨‍💼 Leadership & Mentorship
 
-  * List item one 
-      * List item one 
-          * List item one
-          * List item two
-          * List item three
-          * List item four
-      * List item two
-      * List item three
-      * List item four
-  * List item two
-  * List item three
-  * List item four
+### Mentorship
 
-## Ordered List (Nested)
+#### Research Mentor
+ - Mentored 7 undergraduate summer research students in material testing and characterization techniques, including metal sample preparation, metallurgical imaging including optical and scanning electron microscopy, EBSD acquisition, tensile testing, and digital image correlation (DIC).
+ - Guided students in achieving their research objectives and prepared them for presentations at campus and external research showcases.
+ - Fostered a collaborative research environment by providing ongoing support and constructive feedback.
 
-  1. List item one 
-      1. List item one 
-          1. List item one
-          2. List item two
-          3. List item three
-          4. List item four
-      2. List item two
-      3. List item three
-      4. List item four
-  2. List item two
-  3. List item three
-  4. List item four
+### Leadership
 
-## Buttons
+#### Clarkson University Sri Lankan Students Association
 
-Make any link standout more when applying the `.btn` class.
+ - Sports Event Organizer (August 2022 – Present)
+ - Organized various events to foster community engagement and promote collaboration among students.
+   
+#### University of Moratuwa Mechanical Engineering Society
 
-## Notices
+ - Committee Member (September 2018 – September 2019)
+ - Played a key role in planning and executing student-focused events to promote professional development and networking.
+   
+#### University of Moratuwa Classical Music Society
 
-**Watch out!** You can also add notices by appending `{: .notice}` to a paragraph.
-{: .notice}
+ - Committee Member (October 2017 – October 2018)
+ - Organized the university's largest musical event in 2018, showcasing the musical talents of students across all faculties, which was a highly successful and celebrated event.
 
-## HTML Tags
+## Professional Vision
+I am passionate about combining advanced technologies and innovative research to drive breakthroughs in material design and manufacturing. My focus on experimental and computational methods has enabled me to tackle complex problems in metal additive manufacturing while bridging gaps between research and real-world applications.
 
-### Address Tag
+🔗 What I Offer:
 
-<address>
-  1 Infinite Loop<br /> Cupertino, CA 95014<br /> United States
-</address>
+Innovative Problem-Solving: Integrating AI and automation for efficient and accurate material characterization.
+Interdisciplinary Expertise: Experience in materials science, computer vision, and automated systems.
+Collaboration and Leadership: Proven ability to lead projects, mentor teams, and deliver impactful results.
+I aim to contribute to transformative projects that reshape the future of engineering and technology, especially for aerospace and advanced manufacturing applications.
 
-### Anchor Tag (aka. Link)
-
-This is an example of a [link](http://github.com "Github").
-
-### Abbreviation Tag
-
-The abbreviation CSS stands for "Cascading Style Sheets".
-
-*[CSS]: Cascading Style Sheets
-
-### Cite Tag
-
-"Code is poetry." ---<cite>Automattic</cite>
-
-### Code Tag
-
-You will learn later on in these tests that `word-wrap: break-word;` will be your best friend.
-
-### Strike Tag
-
-This tag will let you <strike>strikeout text</strike>.
-
-### Emphasize Tag
-
-The emphasize tag should _italicize_ text.
-
-### Insert Tag
-
-This tag should denote <ins>inserted</ins> text.
-
-### Keyboard Tag
-
-This scarcely known tag emulates <kbd>keyboard text</kbd>, which is usually styled like the `<code>` tag.
-
-### Preformatted Tag
-
-This tag styles large blocks of code.
-
-<pre>
-.post-title {
-  margin: 0 0 5px;
-  font-weight: bold;
-  font-size: 38px;
-  line-height: 1.2;
-  and here's a line of some really, really, really, really long text, just to see how the PRE tag handles it and to find out how it overflows;
-}
-</pre>
-
-### Quote Tag
-
-<q>Developers, developers, developers&#8230;</q> &#8211;Steve Ballmer
-
-### Strong Tag
-
-This tag shows **bold text**.
-
-### Subscript Tag
-
-Getting our science styling on with H<sub>2</sub>O, which should push the "2" down.
-
-### Superscript Tag
-
-Still sticking with science and Isaac Newton's E = MC<sup>2</sup>, which should lift the 2 up.
-
-### Variable Tag
-
-This allows you to denote <var>variables</var>.
-
-{% include base_path %}
-{% for post in site.pages %}
 {% include archive-single.html %}
 {% endfor %}

@@ -50,6 +50,10 @@ redirect_from:
 
 🚀 Whether you’re looking to collaborate on transformative research, explore new opportunities, or discuss innovative solutions, I’d love to hear from you.
 
+{% if site.author.email %}
+  <div class="wordwrap"><a href="{{site.author.email}}">📧 Email</a>.</div>
+{% endif %}
+
 📧 Email: k.kanchuka@gmail.com | 🔗 LinkedIn: https://linkedin.com/in/kavindu-wijesinghe-a366b5274 | 📄 Resume: [Link to Downloadable PDF Resume]
 
 ![Impactful image](images/Figure 18.png)

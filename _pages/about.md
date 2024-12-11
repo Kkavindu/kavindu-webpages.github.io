@@ -30,28 +30,26 @@ redirect_from:
 
 ## 🖥️ Technical Proficiencies
 
- - <b>Programming</b> | Python | C++ | MATLAB
- - <b>AI/ML Tools</b> | PyTorch | TensorFlow | OpenCV
- - <b>Material Characterization</b> | SEM | EBSD | EDS | XRD | AFM | Optical Microscopy| MTEX | NCORR | Aztec
- - <b>Automation</b> | Arduino | Raspberry Pi | LabVIEW | STEP7
- - <b>Product Design</b> | Solidworks | PTC Creo | Siemens NX | AutoCAD | 3DS Max
- - <b>Simulation</b> | Ansys | Comsol Multiphysics
- - <b>Other</b> | Photoshop | Davinci Resolve | Blender | ImageJ
+<b>Programming</b> | Python | C++ | MATLAB
+<b>AI/ML Tools</b> | PyTorch | TensorFlow | OpenCV
+<b>Material Characterization</b> | SEM | EBSD | EDS | XRD | AFM | Optical Microscopy| MTEX | NCORR | Aztec
+<b>Automation</b> | Arduino | Raspberry Pi | LabVIEW | STEP7
+<b>Product Design</b> | Solidworks | PTC Creo | Siemens NX | AutoCAD | 3DS Max
+<b>Simulation</b> | Ansys | Comsol Multiphysics
+<b>Other</b> | Photoshop | Davinci Resolve | Blender | ImageJ
 
 ## Why Work With Me?
 
-🚀 Innovative Thinker: I combine experimental expertise with AI-driven insights to solve complex challenges in materials science.
+🚀 <b>Innovative Thinker</b>: I combine experimental expertise with AI-driven insights to solve complex challenges in materials science.
 
-🤝 Collaborative Problem Solver: I work seamlessly across disciplines to deliver solutions that matter.
+🤝 <b>Collaborative Problem Solver</b>: I work seamlessly across disciplines to deliver solutions that matter.
 
-✈️ Future-Ready Solutions: My research is geared toward advancing aerospace and advanced manufacturing technologies.
+✈️ <b>Future-Ready Solutions</b>: My research is geared toward advancing aerospace and advanced manufacturing technologies.
 
 ## Let's Connect!
 
 🚀 Whether you’re looking to collaborate on transformative research, explore new opportunities, or discuss innovative solutions, I’d love to hear from you.
 
-📧 Email: k.kanchuka@gmail.com
-🔗 LinkedIn: https://linkedin.com/in/kavindu-wijesinghe-a366b5274
-📄 Resume: [Link to Downloadable PDF Resume]
+📧 Email: k.kanchuka@gmail.com | 🔗 LinkedIn: https://linkedin.com/in/kavindu-wijesinghe-a366b5274 | 📄 Resume: [Link to Downloadable PDF Resume]
 
 ![Impactful image](images/Figure 18.png)

@@ -46,11 +46,11 @@ redirect_from:
 
 ✈️ <b>Future-Ready Solutions</b>: My research is geared toward advancing aerospace and advanced manufacturing technologies.
 
+![Impactful image](images/Figure 18.png)
+
 ## Let's Connect!
 
 🚀 Whether you’re looking to collaborate on transformative research, explore new opportunities, or discuss innovative solutions, I’d love to hear from you.
 
  - 📧 Email: k.kanchuka@gmail.com
  - 🔗 LinkedIn: https://linkedin.com/in/kavindu-wijesinghe-a366b5274
-
-![Impactful image](images/Figure 18.png)

@@ -8,9 +8,9 @@ redirect_from:
 
 ---
 
-👨🏻‍💻 I am <mark>Kavindu Wijesinghe</mark>, a <mark>final-year Ph.D. Candidate in Materials Science and Engineering</mark> at <mark>Clarkson University</mark>. I specialize in <mark>metal additive manufacturing</mark>, integrating <mark>AI, automation, and advanced material characterization</mark> to design next-generation materials for aerospace and advanced manufacturing industries.
+👨🏻‍💻 I am <b>Kavindu Wijesinghe</b>, a <b>final-year Ph.D. Candidate in Materials Science and Engineering</b> at <mark>Clarkson University</b>. I specialize in <b>metal additive manufacturing</b>, integrating <b>AI, automation, and advanced material characterization</b> to design next-generation materials for aerospace and advanced manufacturing industries.
 
-🔎 <mark>Bridging the gap between experimentation and innovation with cutting-edge technologies.</mark>
+🔎 <b>Bridging the gap between experimentation and innovation with cutting-edge technologies.</b>
 
 ![DALL-E](images/DALLE2.png){: align="right" width="280px"}
 

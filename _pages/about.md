@@ -54,6 +54,6 @@ redirect_from:
   <div class="wordwrap"><a href="{{site.author.email}}">📧 Email</a>.</div>
 {% endif %}
 
-📧 Email: k.kanchuka@gmail.com | 🔗 LinkedIn: https://linkedin.com/in/kavindu-wijesinghe-a366b5274 | 📄 Resume: [Link to Downloadable PDF Resume]
+📧 Email: k.kanchuka@gmail.com | 🔗 LinkedIn: https://linkedin.com/in/kavindu-wijesinghe-a366b5274 | 📄 Resume: /files/Kavindu_Wijesinghe_Resume.pdf
 
 ![Impactful image](images/Figure 18.png)

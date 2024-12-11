@@ -6,7 +6,7 @@
 
 main:    
   - title: "About Me"
-    url: /year-archive/
+    url: /archive-layout-with-content/
     
   - title: "Publications"
     url: /publications/

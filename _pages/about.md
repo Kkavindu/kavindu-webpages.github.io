@@ -18,7 +18,7 @@ redirect_from:
 
  - 🔬 <b>Advanced Material Characterization</b>
  - 🤖 <b>AI & Computer Vision Integration</b>
- - 🛠️ <b>Experimental Automation</b>
+ - 🛠️ <b>Automation</b>
  - ✈️ <b>Product Design and Development</b>
 
 ## 🏆 Notable Achievements
@@ -53,6 +53,14 @@ redirect_from:
 🤝 Collaborative Problem Solver: I work seamlessly across disciplines to deliver solutions that matter.
 
 ✈️ Future-Ready Solutions: My research is geared toward advancing aerospace and advanced manufacturing technologies.
+
+## Let's Connect!
+
+🚀 Whether you’re looking to collaborate on transformative research, explore new opportunities, or discuss innovative solutions, I’d love to hear from you.
+
+📧 Email: k.kanchuka@gmail.com
+🔗 LinkedIn: [Your LinkedIn Profile Link]
+📄 Resume: [Link to Downloadable PDF Resume]
 
 My research integrates advanced experimental techniques with AI and automation to drive material innovation. Key areas include:
 

@@ -14,14 +14,45 @@ redirect_from:
 🔎 <b>Bridging the gap between experimentation and innovation with cutting-edge technologies.</b>
 
 ![D](images/DALLE2.png){: align="right" width="300px"}
-📌 <b>What I Do
+📌 <b>What I Do</b>
 
- - 🔬 Advanced Material Characterization
- - 🤖 AI & Computer Vision Integration
- - 🛠️ Experimental Automation
- - ✈️ Product Design and Development</b>
+ - 🔬 <b>Advanced Material Characterization</b>
+ - 🤖 <b>AI & Computer Vision Integration</b>
+ - 🛠️ <b>Experimental Automation</b>
+ - ✈️ <b>Product Design and Development</b>
 
-## 🧐 Research Focus
+## 🏆 Notable Achievements
+
+ - <b>Patent-Pending Innovation</b>: Developed an <b>automated in-situ micro-tensile testing system</b> for high-resolution microstructural tensile deformation capturing and post-processing.
+ - <b>Pioneering Generative AI Framework</b>: Created a <b>latent video diffusion model</b> to generate material deformation synthetically under tensile loading.
+ - <b>Advanced Process-Structure-Property Relationship</b>: Unraveled deformation mechanisms driving mechanical properties of <b>additively manufactured titanium alloys</b>, and <b>stainless steel 316L</b> under various loading conditions.
+ - <b>AI-Driven Analysis</b>: Developed deep learning tools for <b>feature tracking</b> and <b>microscopic strain measurement</b> in in-situ deformation videos.
+
+## 💡 Combining Interdisciplinary Knowledge and Innovation
+
+ - Materials Science: Metallic sample preparation (epoxy mounting, mechanical/electro polishing, chemical/electro etching), Microstructural analysis, deformation behavior (in-situ), failure analysis, and alloy optimization.
+ - Manufacturing: Additive manufacturing (metal & polymer), CNC programming, manual machining (milling, lathe & drilling), heat treatment, welding, and plant layout optimization.
+ - Product Design: 2D/3D modeling/drawing, animation, Finite Element Analysis (FEA), and Computational Fluid Dynamics (CFD).
+ - AI & Image Processing: Computer vision, predictive and generative AI models for materials science.
+ - Automation Systems: Designing experimental tools for precision and efficiency, and industrial automation (PLC).
+
+## 🖥️ Technical Proficiencies
+
+ - <b>Programming</b>: Python | C++ | MATLAB
+ - <b>AI/ML Tools</b>: PyTorch | TensorFlow | OpenCV
+ - <b>Material Characterization</b>: SEM | EBSD | EDS | XRD | AFM | Optical Microscopy| MTEX | NCORR | Aztec
+ - <b>Automation</b>: Arduino | Raspberry Pi | LabVIEW | STEP7
+ - <b>Product Design</b>: Solidworks | PTC Creo | Siemens NX | AutoCAD | 3DS Max
+ - <b>Simulation</b>: Ansys | Comsol Multiphysics
+ - <b>Other</b>: Photoshop | Davinci Resolve | Blender | ImageJ
+
+## Why Work With Me?
+
+🚀 Innovative Thinker: I combine experimental expertise with AI-driven insights to solve complex challenges in materials science.
+
+🤝 Collaborative Problem Solver: I work seamlessly across disciplines to deliver solutions that matter.
+
+✈️ Future-Ready Solutions: My research is geared toward advancing aerospace and advanced manufacturing technologies.
 
 My research integrates advanced experimental techniques with AI and automation to drive material innovation. Key areas include:
 
@@ -59,71 +90,5 @@ With a strong foundation in experimental and data-driven techniques, I bring exp
 ### Software and Computational Proficiencies
 ![Softwares and tools](images/Figure 15.png)
 
-## 📚 Education
-
-### Doctor of Philosophy in Materials Science and Engineering
-![Clarkson](images/Green - Clarkson Shield.png){: align="right" width="100px"}
- - Institute: Clarkson University, Potsdam, NY
- - Current cumulative GPA: 3.795/4.00
- - Started: December 2022
- - Expected Graduation: April 2025
-
-### Master of Science in Mechanical Engineering
-![Clarkson](images/Green - Clarkson Shield.png){: align="right" width="100px"}
- - Institute: Clarkson University, Potsdam, NY
- - Cumulative GPA: 3.83/4.0
- - Started: January 2020
- - Graduated: December 2022
-
-Awards: Clarkson Ignite Presidential Scholarship Receiver: 2020-Fall
-
-### Bachelor of Science (Hons) in Mechanical Engineering
-![Moratuwa](images/University_of_Moratuwa_logo.png){: align="right" width="100px"}
- - Institute: University of Moratuwa, Colombo, Sri Lanka
- - Cumulative GPA: 3.49/4.2
- - Started: August 2014
- - Graduated: December 2018
-
-Awards: Dean’s List for Academic Excellence: 2017
-
-### General Certificate of Education Advanced Level Examination in Physical Science Stream (Equivalent the US Advanced Placement (AP) program or the International Baccalaureate (IB) program)
-![Ananda](images/Ananda_Crest.png){: align="right" width="100px"}
- - Institute: Ananda College, Colombo, Sri Lanka
- - Pass Grades: A grades for subjects (Mathematics, Physics & Chemistry)
- - Z-Score: 2.205
- - Rank in the country: 282
- - Completed: August 2013
-
-### General Certificate of Education Ordinary Level Examination (Equivalent to US High School Diploma)
-![Ananda](images/Ananda_Crest.png){: align="right" width="100px"}
- - Institute: Ananda College, Colombo, Sri Lanka
- - Pass Grades: A grades for all 9 subjects
- - Completed: December 2010
-
-## 🌟👨‍💼 Leadership & Mentorship
-
-### Mentorship
-
-#### Research Mentor
- - Mentored 7 undergraduate summer research students in material testing and characterization techniques, including metal sample preparation, metallurgical imaging including optical and scanning electron microscopy, EBSD acquisition, tensile testing, and digital image correlation (DIC).
- - Guided students in achieving their research objectives and prepared them for presentations at campus and external research showcases.
- - Fostered a collaborative research environment by providing ongoing support and constructive feedback.
-
-### Leadership
-
-#### Clarkson University Sri Lankan Students Association
-
- - Sports Event Organizer (August 2022 – Present)
- - Organized various events to foster community engagement and promote collaboration among students.
-   
-#### University of Moratuwa Mechanical Engineering Society
-
- - Committee Member (September 2018 – September 2019)
- - Played a key role in planning and executing student-focused events to promote professional development and networking.
-   
-#### University of Moratuwa Classical Music Society
-
- - Committee Member (October 2017 – October 2018)
- - Organized the university's largest musical event in 2018, showcasing the musical talents of students across all faculties, which was a highly successful and celebrated event.
 
 ![Impactful image](images/Figure 17.png)

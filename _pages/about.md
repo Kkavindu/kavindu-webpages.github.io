@@ -18,7 +18,7 @@ redirect_from:
 
  - 🔬 <b>Advanced Material Characterization</b>
  - 🤖 <b>AI & Computer Vision Integration</b>
- - 🛠️ <b>Automation</b>
+ - 🛠️ <b>Fabrication and Automation</b>
  - ✈️ <b>Product Design and Development</b>
 
 ## 🏆 Notable Achievements

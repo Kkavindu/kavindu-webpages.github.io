@@ -117,6 +117,3 @@ Innovative Problem-Solving: Integrating AI and automation for efficient and accu
 Interdisciplinary Expertise: Experience in materials science, computer vision, and automated systems.
 Collaboration and Leadership: Proven ability to lead projects, mentor teams, and deliver impactful results.
 I aim to contribute to transformative projects that reshape the future of engineering and technology, especially for aerospace and advanced manufacturing applications.
-
-{% include archive-single.html %}
-{% endfor %}

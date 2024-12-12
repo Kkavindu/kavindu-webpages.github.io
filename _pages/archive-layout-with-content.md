@@ -38,20 +38,15 @@ With a strong foundation in experimental and data-driven techniques, I bring exp
 ### Computer Vision and Artificial Intelligence
  - With proficiency in Python and MATLAB, I specialize in deep learning applications (predictive and generative AI), object detection, segmentation, feature tracking, and algorithm development. My work includes video stabilization, focus stacking, image enhancement, optical flow mapping, and feature extraction, contributing to efficient and accurate data interpretation in experimental material studies.
 
-### Software and Computational Proficiencies
-![Softwares and tools](images/Figure 15.png)
-
 ## 📚 Education
 
 ### Doctor of Philosophy in Materials Science and Engineering
-![Clarkson](Green - Clarkson Shield.png){: align="right" width="100px"}
  - Institute: Clarkson University, Potsdam, NY
  - Current cumulative GPA: 3.795/4.00
  - Started: December 2022
  - Expected Graduation: April 2025
 
 ### Master of Science in Mechanical Engineering
-![Clarkson](Green - Clarkson Shield.png){: align="right" width="100px"}
  - Institute: Clarkson University, Potsdam, NY
  - Cumulative GPA: 3.83/4.0
  - Started: January 2020
@@ -60,7 +55,6 @@ With a strong foundation in experimental and data-driven techniques, I bring exp
 Awards: Clarkson Ignite Presidential Scholarship Receiver: 2020-Fall
 
 ### Bachelor of Science (Hons) in Mechanical Engineering
-![Moratuwa](pages/University_of_Moratuwa_logo.png){: align="right" width="100px"}
  - Institute: University of Moratuwa, Colombo, Sri Lanka
  - Cumulative GPA: 3.49/4.2
  - Started: August 2014
@@ -69,7 +63,6 @@ Awards: Clarkson Ignite Presidential Scholarship Receiver: 2020-Fall
 Awards: Dean’s List for Academic Excellence: 2017
 
 ### General Certificate of Education Advanced Level Examination in Physical Science Stream (Equivalent the US Advanced Placement (AP) program or the International Baccalaureate (IB) program)
-![Ananda](images/Ananda_Crest.png){: align="right" width="100px"}
  - Institute: Ananda College, Colombo, Sri Lanka
  - Pass Grades: A grades for subjects (Mathematics, Physics & Chemistry)
  - Z-Score: 2.205
@@ -77,7 +70,6 @@ Awards: Dean’s List for Academic Excellence: 2017
  - Completed: August 2013
 
 ### General Certificate of Education Ordinary Level Examination (Equivalent to US High School Diploma)
-![Ananda](images/Ananda_Crest.png){: align="right" width="100px"}
  - Institute: Ananda College, Colombo, Sri Lanka
  - Pass Grades: A grades for all 9 subjects
  - Completed: December 2010

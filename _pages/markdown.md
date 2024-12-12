@@ -9,6 +9,8 @@ redirect_from:
 
 ## Locations of key files/directories
 
+![Clarkson](Green - Clarkson Shield.png){: align="right" width="100px"}
+
 * Basic config options: _config.yml
 * Top navigation bar config: _data/navigation.yml
 * Single pages: _pages/

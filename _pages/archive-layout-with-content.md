@@ -44,14 +44,14 @@ With a strong foundation in experimental and data-driven techniques, I bring exp
 ## 📚 Education
 
 ### Doctor of Philosophy in Materials Science and Engineering
-![Clarkson](images/Green - Clarkson Shield.png){: align="right" width="100px"}
+![Clarkson](Green - Clarkson Shield.png){: align="right" width="100px"}
  - Institute: Clarkson University, Potsdam, NY
  - Current cumulative GPA: 3.795/4.00
  - Started: December 2022
  - Expected Graduation: April 2025
 
 ### Master of Science in Mechanical Engineering
-![Clarkson](images/Green - Clarkson Shield.png){: align="right" width="100px"}
+![Clarkson](Green - Clarkson Shield.png){: align="right" width="100px"}
  - Institute: Clarkson University, Potsdam, NY
  - Cumulative GPA: 3.83/4.0
  - Started: January 2020

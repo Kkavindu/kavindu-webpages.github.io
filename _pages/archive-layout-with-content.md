@@ -60,7 +60,7 @@ With a strong foundation in experimental and data-driven techniques, I bring exp
 Awards: Clarkson Ignite Presidential Scholarship Receiver: 2020-Fall
 
 ### Bachelor of Science (Hons) in Mechanical Engineering
-![Moratuwa](images/University_of_Moratuwa_logo.png){: align="right" width="100px"}
+![Moratuwa](pages/University_of_Moratuwa_logo.png){: align="right" width="100px"}
  - Institute: University of Moratuwa, Colombo, Sri Lanka
  - Cumulative GPA: 3.49/4.2
  - Started: August 2014

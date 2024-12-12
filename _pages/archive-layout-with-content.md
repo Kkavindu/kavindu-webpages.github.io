@@ -1,7 +1,7 @@
 ---
 title: "About Me"
 layout: archive
-permalink: /
+permalink: /archive-layout-with-content/
 ---
 
 ## Overview
